@@ -30,3 +30,9 @@ class Solution:
             max_fruit = max(max_fruit,tot)
         
         return max_fruit
+
+        # Maintain a hashmap
+        # Store the number(key) and it's count(value) in it
+        # Just expand the sliding window if len(hashmap) < 2
+        # Just shrink the sliding window while len(hasmap) > 2
+        # i.e, until the len(hashmap) > 2 ==> Shrink the window 
