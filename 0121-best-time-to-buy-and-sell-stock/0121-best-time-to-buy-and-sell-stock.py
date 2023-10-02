@@ -11,4 +11,6 @@ class Solution:
 
 # curr_price is the price on the day which we are selling the stock
 
-# Traverse prices once and at each position keep track of the min Price so far and max profit, profit = curr_price-min price
+# Traverse along the array
+# In each iteration, store the minimum price encountered so far
+# In each iteration, do max(curr_price-minimum price encountered so far)
