@@ -4,11 +4,22 @@ class Solution:
         # Just calculate which k-sized sub-array has least number 
         # of W's
 
-        sub_arr = blocks[:k]
-        count = float("inf")
-        count = min(count,sub_arr.count("W"))
+        res = []
+        w_count = blocks[:k].count("W")
+        res.append(w_count)
 
         for i in range(1,len(blocks)-k+1):
-            count = min(count,blocks[i:k+i].count("W"))
+            if(blocks[i-1+k] == "W"):
+                w_count += 1
+            if(blocks[i-1] == "W"):
+                w_count -= 1
 
-        return count
+            res.append(w_count)
+
+        return min(res)
+
+        # For improving the code, we can just take a variable
+        # w_count and when we are iterating over the windows of 
+        # size k, if the item that is leaving the window is W,
+        # then decrease w_count by 1 and if the item that is       entering the window is W, then increase the w_count by 1
+        # Like, this in each window keep track of minimum W's  
