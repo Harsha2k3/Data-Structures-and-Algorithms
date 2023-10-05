@@ -1,19 +1,49 @@
+# class MinStack:
+
+#     def __init__(self):
+#         self.list = []
+
+#     def push(self, val: int) -> None:
+#         self.list.append(val)
+
+#     def pop(self) -> None:
+#         self.list.pop()
+
+#     def top(self) -> int:
+#         return self.list[len(self.list)-1]
+
+#     def getMin(self) -> int:
+#         return min(self.list)   ==> This will take O(n)
+
+
+
+# But we need to do it in constant time (O(1))
+
+
 class MinStack:
 
     def __init__(self):
-        self.list = []
+        self.stack = []
+        self.minstack = []
 
     def push(self, val: int) -> None:
-        self.list.append(val)
+        self.stack.append(val)
+        if(self.minstack):
+            self.minstack.append(min(val,self.minstack[-1]))
+        else:
+            self.minstack.append(val)
+        
 
     def pop(self) -> None:
-        self.list.pop()
+        self.stack.pop()
+        self.minstack.pop()
 
     def top(self) -> int:
-        return self.list[len(self.list)-1]
+        return self.stack[-1]
 
     def getMin(self) -> int:
-        return min(self.list)
+        return self.minstack[-1]
+        
 
 
 # Your MinStack object will be instantiated and called as such:
