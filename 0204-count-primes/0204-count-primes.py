@@ -11,7 +11,7 @@ class Solution:
         
         for i in range(2,int(m.sqrt(n))+1):
             if(is_prime[i]):
-                for j in range(2*i,n,i):    # We will start from next multiple of i so, 2*i and we will assign False with incrementing by i
+                for j in range(i**2,n,i):    # We will start from next multiple of i so, 2*i and we will assign False with incrementing by i
                     is_prime[j] = False
                     
         return len([i for i in range(n) if is_prime[i]])
