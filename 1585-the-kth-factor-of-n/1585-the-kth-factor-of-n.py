@@ -1,10 +1,18 @@
+import math as m
+
 class Solution:
     def kthFactor(self, n: int, k: int) -> int:
         
-        for i in range(1,n+1):
+        res = []
+
+        for i in range(1,int(m.sqrt(n))+1):
             if(n%i == 0):
-                k -= 1
-                if(k == 0):
-                    return i
-                    break
-        return -1
+                if(n/i == i):
+                    res.append(i)
+                else:
+                    res.append(i)
+                    res.append(int(n/i))
+
+        res.sort()
+
+        return res[k-1] if len(res) >= k else -1
