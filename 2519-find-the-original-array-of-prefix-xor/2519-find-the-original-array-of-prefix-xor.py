@@ -9,10 +9,10 @@ class Solution:
         # Similarly, arr[3] = pref[3] ^ (arr[0] ^ arr[1] ^ arr[2])
 
         arr = [pref[0]] * (len(pref))
-        mul = arr[0]
+        prev = arr[0]
 
         for i in range(1,len(pref)):
-            arr[i] = pref[i] ^ mul
-            mul = mul ^ arr[i]
+            arr[i] = pref[i] ^ prev
+            prev = prev ^ arr[i]
 
         return arr
