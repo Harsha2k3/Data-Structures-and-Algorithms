@@ -6,6 +6,7 @@ class Solution:
         # So, arr[1] = pref[1] ^ arr[0]
         # Now, pref[2] = arr[0] ^ arr[1] ^ arr[2]
         # So, arr[2] = pref[2] ^ (arr[0] ^ arr[1])
+        # Similarly, arr[3] = pref[3] ^ (arr[0] ^ arr[1] ^ arr[2])
 
         arr = [pref[0]] * (len(pref))
         mul = arr[0]
