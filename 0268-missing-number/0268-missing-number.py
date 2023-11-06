@@ -14,3 +14,5 @@ class Solution:
             xor = xor ^ i
         
         return xor
+
+        # Just apply XOR between the given array and array that has the numbers from 0 to n (inclusive)
