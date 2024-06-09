@@ -7,6 +7,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsha2k3/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Harsha2k3/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Harsha2k3/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Harsha2k3/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 # Binary Search
 |  |
@@ -30,6 +31,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Harsha2k3/LeetCode/tree/master/0409-longest-palindrome) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Harsha2k3/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Harsha2k3/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 # String
 |  |
@@ -39,3 +41,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Harsha2k3/LeetCode/tree/master/0409-longest-palindrome) |
+# Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Harsha2k3/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
