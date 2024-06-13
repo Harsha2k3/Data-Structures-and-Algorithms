@@ -6,6 +6,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsha2k3/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0078-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Harsha2k3/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harsha2k3/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -30,6 +31,7 @@ This repository provides a comprehensive overview of my progress and achievement
 # Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Harsha2k3/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Harsha2k3/LeetCode/tree/master/0287-find-the-duplicate-number) |
 # Hash Table
@@ -73,3 +75,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+# Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/0078-subsets) |
