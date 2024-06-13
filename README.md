@@ -51,3 +51,11 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsha2k3/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Harsha2k3/LeetCode/tree/master/0206-reverse-linked-list) |
+# Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Harsha2k3/LeetCode/tree/master/0206-reverse-linked-list) |
