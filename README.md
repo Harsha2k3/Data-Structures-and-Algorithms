@@ -20,6 +20,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Harsha2k3/LeetCode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Harsha2k3/LeetCode/tree/master/0231-power-of-two) |
 # Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ This repository provides a comprehensive overview of my progress and achievement
 # Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Harsha2k3/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Harsha2k3/LeetCode/tree/master/0287-find-the-duplicate-number) |
 # Hash Table
 |  |
@@ -59,3 +61,4 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Harsha2k3/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Harsha2k3/LeetCode/tree/master/0231-power-of-two) |
