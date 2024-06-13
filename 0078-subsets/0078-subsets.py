@@ -1,13 +1,19 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        n = len(nums)
-        res_final = []
 
-        for i in range(2**n):
-            res = []
-            for j in range(n):
-                if(((1 << j) & i) != 0):
-                    res.append(nums[j])
-            res_final.append(res)
+        res = []
 
-        return res_final
+        def rec(i , subset):
+
+            if i >= len(nums):
+                res.append(subset.copy())
+                return
+
+            subset.append(nums[i])
+            rec(i + 1 , subset)
+            subset.pop()
+            rec(i + 1 , subset)
+
+        rec(0 , [])
+
+        return res
