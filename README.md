@@ -10,6 +10,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0040-combination-sum-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Harsha2k3/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Harsha2k3/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harsha2k3/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsha2k3/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -50,6 +51,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Harsha2k3/LeetCode/tree/master/0409-longest-palindrome) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Harsha2k3/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsha2k3/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Prefix Sum
 |  |
@@ -58,6 +60,7 @@ This repository provides a comprehensive overview of my progress and achievement
 # Sorting
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Harsha2k3/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsha2k3/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Linked List
 |  |
@@ -83,3 +86,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0039-combination-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/0078-subsets) |
+# Counting
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Harsha2k3/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
