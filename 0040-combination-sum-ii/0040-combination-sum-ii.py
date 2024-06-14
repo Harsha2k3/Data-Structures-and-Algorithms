@@ -5,18 +5,18 @@ class Solution:
 
         def rec(ind , arr , t , l):
 
-            if(t == 0):
+            if t == 0:
                 res.append(l.copy())
                 return
 
             for i in range(ind , len(arr)):
 
-                if(i > ind and arr[i] == arr[i - 1]):
+                if i > ind and arr[i] == arr[i - 1]:
                     continue
                 
-                if(arr[i] > t):
+                if arr[i] > t:
                     break
-
+                
                 else:
                     l.append(arr[i])
                     rec(i + 1 , arr , t - arr[i] , l)
@@ -27,16 +27,13 @@ class Solution:
 
         return res
 
-
-        # Note:-
+        # Note:-  (V.V.V.IMPORTANT)
 
         # [1,2,3,4,5,6]
 
         # sub-array ==> [3,4,5]  (Continuous)
         # Sub-sequence ==> [2,4,5] (Might not be continuous, but follows order)
         # Combination  ==> [3,1,2] (Need not to follow the order too)
-
-
 
 
 
