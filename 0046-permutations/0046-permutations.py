@@ -1,6 +1,9 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
 
+        # T.C = n! x n  (Combinations ==> n! and for loop ==> n)
+        # S.C = O(n) auxiliary S.C for recursion
+
         res = []
 
         def rec(ind , nums):
@@ -20,20 +23,9 @@ class Solution:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        # # Takes extra memory for hashmap array
+        # # T.C = n! x n  (Combinations ==> n! and for loop ==> n)
+        # # S.C = O(n) normal S.C and O(n) auxiliary S.C for recursion
         
         # res = []
 
