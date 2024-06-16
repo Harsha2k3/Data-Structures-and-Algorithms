@@ -1,5 +1,6 @@
 class Solution:
     def minPatches(self, nums: List[int], n: int) -> int:
+        
         miss = 1
         result = 0
         i = 0
