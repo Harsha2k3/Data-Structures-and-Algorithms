@@ -105,3 +105,15 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Harsha2k3/LeetCode/tree/master/0037-sudoku-solver) |
+# Depth-First Search
+|  |
+| ------- |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Harsha2k3/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
+# Breadth-First Search
+|  |
+| ------- |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Harsha2k3/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
+# Graph
+|  |
+| ------- |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Harsha2k3/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
