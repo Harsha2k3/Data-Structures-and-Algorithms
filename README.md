@@ -12,6 +12,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0046-permutations](https://github.com/Harsha2k3/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Harsha2k3/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Harsha2k3/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Harsha2k3/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0330-patching-array](https://github.com/Harsha2k3/LeetCode/tree/master/0330-patching-array) |
@@ -53,6 +54,7 @@ This repository provides a comprehensive overview of my progress and achievement
 # String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Harsha2k3/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Harsha2k3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0409-longest-palindrome](https://github.com/Harsha2k3/LeetCode/tree/master/0409-longest-palindrome) |
 # Greedy
@@ -99,6 +101,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0051-n-queens](https://github.com/Harsha2k3/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Harsha2k3/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Harsha2k3/LeetCode/tree/master/0131-palindrome-partitioning) |
 # Counting
@@ -109,6 +112,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Harsha2k3/LeetCode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Harsha2k3/LeetCode/tree/master/0079-word-search) |
 # Depth-First Search
 |  |
 | ------- |
