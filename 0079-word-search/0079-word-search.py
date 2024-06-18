@@ -1,5 +1,7 @@
 class Solution:
 
+    # Same as rat in a maze problem in Striver sheet
+
     # Optimized Approach
     
     def solve(self, ind, i, j, a, n, vis, di, dj, word):
