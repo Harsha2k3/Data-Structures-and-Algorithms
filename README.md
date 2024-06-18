@@ -30,6 +30,7 @@ This repository provides a comprehensive overview of my progress and achievement
 # Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Harsha2k3/LeetCode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Harsha2k3/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Harsha2k3/LeetCode/tree/master/0231-power-of-two) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -80,6 +81,7 @@ This repository provides a comprehensive overview of my progress and achievement
 # Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Harsha2k3/LeetCode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Harsha2k3/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Harsha2k3/LeetCode/tree/master/0231-power-of-two) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
