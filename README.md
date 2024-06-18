@@ -55,6 +55,7 @@ This repository provides a comprehensive overview of my progress and achievement
 # String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Harsha2k3/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Harsha2k3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0409-longest-palindrome](https://github.com/Harsha2k3/LeetCode/tree/master/0409-longest-palindrome) |
@@ -96,6 +97,7 @@ This repository provides a comprehensive overview of my progress and achievement
 # Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Harsha2k3/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -130,4 +132,5 @@ This repository provides a comprehensive overview of my progress and achievement
 # Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Harsha2k3/LeetCode/tree/master/0131-palindrome-partitioning) |
