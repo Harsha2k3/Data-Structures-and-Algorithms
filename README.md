@@ -19,6 +19,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0330-patching-array](https://github.com/Harsha2k3/LeetCode/tree/master/0330-patching-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Harsha2k3/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harsha2k3/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harsha2k3/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsha2k3/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Harsha2k3/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -28,6 +29,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsha2k3/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Harsha2k3/LeetCode/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Harsha2k3/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harsha2k3/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Math
 |  |
 | ------- |
