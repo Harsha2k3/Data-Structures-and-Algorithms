@@ -16,6 +16,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0079-word-search](https://github.com/Harsha2k3/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/Harsha2k3/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0140-word-break-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Harsha2k3/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0330-patching-array](https://github.com/Harsha2k3/LeetCode/tree/master/0330-patching-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Harsha2k3/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -55,6 +56,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | ------- |
 | [0037-sudoku-solver](https://github.com/Harsha2k3/LeetCode/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/Harsha2k3/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0140-word-break-ii) |
 | [0409-longest-palindrome](https://github.com/Harsha2k3/LeetCode/tree/master/0409-longest-palindrome) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harsha2k3/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Harsha2k3/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -65,6 +67,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0079-word-search](https://github.com/Harsha2k3/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Harsha2k3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Harsha2k3/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/Harsha2k3/LeetCode/tree/master/0282-expression-add-operators) |
 | [0409-longest-palindrome](https://github.com/Harsha2k3/LeetCode/tree/master/0409-longest-palindrome) |
 # Greedy
@@ -117,6 +120,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0079-word-search](https://github.com/Harsha2k3/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Harsha2k3/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/Harsha2k3/LeetCode/tree/master/0282-expression-add-operators) |
 # Counting
 |  |
@@ -145,11 +149,14 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0022-generate-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Harsha2k3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Harsha2k3/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0140-word-break-ii) |
 # Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Harsha2k3/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0140-word-break-ii) |
 # Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Harsha2k3/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0140-word-break-ii) |
