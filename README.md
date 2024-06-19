@@ -70,6 +70,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0140-word-break-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/Harsha2k3/LeetCode/tree/master/0282-expression-add-operators) |
 | [0409-longest-palindrome](https://github.com/Harsha2k3/LeetCode/tree/master/0409-longest-palindrome) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Harsha2k3/LeetCode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 # Greedy
 |  |
 | ------- |
@@ -122,6 +123,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0131-palindrome-partitioning](https://github.com/Harsha2k3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/Harsha2k3/LeetCode/tree/master/0282-expression-add-operators) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Harsha2k3/LeetCode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 # Counting
 |  |
 | ------- |
