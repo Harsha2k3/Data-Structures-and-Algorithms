@@ -36,6 +36,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0060-permutation-sequence](https://github.com/Harsha2k3/LeetCode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Harsha2k3/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Harsha2k3/LeetCode/tree/master/0231-power-of-two) |
+| [0282-expression-add-operators](https://github.com/Harsha2k3/LeetCode/tree/master/0282-expression-add-operators) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 # Two Pointers
 |  |
@@ -63,6 +64,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0079-word-search](https://github.com/Harsha2k3/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Harsha2k3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Harsha2k3/LeetCode/tree/master/0139-word-break) |
+| [0282-expression-add-operators](https://github.com/Harsha2k3/LeetCode/tree/master/0282-expression-add-operators) |
 | [0409-longest-palindrome](https://github.com/Harsha2k3/LeetCode/tree/master/0409-longest-palindrome) |
 # Greedy
 |  |
@@ -113,6 +115,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0079-word-search](https://github.com/Harsha2k3/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Harsha2k3/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/Harsha2k3/LeetCode/tree/master/0282-expression-add-operators) |
 # Counting
 |  |
 | ------- |
