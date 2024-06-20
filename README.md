@@ -27,6 +27,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1675-magnetic-force-between-two-balls](https://github.com/Harsha2k3/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsha2k3/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Harsha2k3/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Harsha2k3/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Harsha2k3/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -184,4 +185,5 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsha2k3/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Harsha2k3/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Harsha2k3/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
