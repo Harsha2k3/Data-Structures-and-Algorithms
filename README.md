@@ -28,6 +28,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsha2k3/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Harsha2k3/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Harsha2k3/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 # Binary Search
 |  |
@@ -89,6 +90,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harsha2k3/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Harsha2k3/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 # Sorting
 |  |
 | ------- |
