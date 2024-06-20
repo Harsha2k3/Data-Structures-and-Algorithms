@@ -24,6 +24,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harsha2k3/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsha2k3/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Harsha2k3/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 # Binary Search
 |  |
@@ -87,6 +88,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Harsha2k3/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsha2k3/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 # Linked List
 |  |
 | ------- |
@@ -124,6 +126,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0140-word-break-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/Harsha2k3/LeetCode/tree/master/0282-expression-add-operators) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Harsha2k3/LeetCode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 # Counting
 |  |
 | ------- |
@@ -152,6 +155,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0131-palindrome-partitioning](https://github.com/Harsha2k3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Harsha2k3/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0140-word-break-ii) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 # Trie
 |  |
 | ------- |
