@@ -30,6 +30,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [2696-the-number-of-beautiful-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Harsha2k3/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Harsha2k3/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3429-special-array-i](https://github.com/Harsha2k3/LeetCode/tree/master/3429-special-array-i) |
 # Binary Search
 |  |
 | ------- |
