@@ -19,6 +19,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0140-word-break-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0140-word-break-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Harsha2k3/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0330-patching-array](https://github.com/Harsha2k3/LeetCode/tree/master/0330-patching-array) |
+| [0907-koko-eating-bananas](https://github.com/Harsha2k3/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Harsha2k3/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harsha2k3/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harsha2k3/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -32,6 +33,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsha2k3/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Harsha2k3/LeetCode/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Harsha2k3/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0907-koko-eating-bananas](https://github.com/Harsha2k3/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harsha2k3/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Math
 |  |
