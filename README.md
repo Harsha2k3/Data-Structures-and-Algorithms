@@ -63,6 +63,7 @@ This repository provides a comprehensive overview of my progress and achievement
 # Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harsha2k3/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Harsha2k3/LeetCode/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/Harsha2k3/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0140-word-break-ii) |
@@ -72,6 +73,7 @@ This repository provides a comprehensive overview of my progress and achievement
 # String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harsha2k3/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Harsha2k3/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Harsha2k3/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -176,3 +178,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | ------- |
 | [0139-word-break](https://github.com/Harsha2k3/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0140-word-break-ii) |
+# Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harsha2k3/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
