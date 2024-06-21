@@ -22,6 +22,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0907-koko-eating-bananas](https://github.com/Harsha2k3/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Harsha2k3/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harsha2k3/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1138-grumpy-bookstore-owner](https://github.com/Harsha2k3/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Harsha2k3/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harsha2k3/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Harsha2k3/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -185,5 +186,6 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsha2k3/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1138-grumpy-bookstore-owner](https://github.com/Harsha2k3/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Harsha2k3/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Harsha2k3/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
