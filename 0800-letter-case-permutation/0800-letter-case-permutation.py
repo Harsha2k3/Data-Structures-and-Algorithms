@@ -1,6 +1,8 @@
 class Solution(object):
     def letterCasePermutation(self, s):
-        
+
+        # Take or not take pattern (Like in )
+
         res = []
 
         def rec(ind, l):
@@ -16,11 +18,19 @@ class Solution(object):
                 rec(ind + 1, l)
 
                 # Recur after changing the case
-                l[ind] = l[ind].upper() if l[ind].islower() else l[ind].lower()
+                if l[ind].islower():
+                    l[ind] = l[ind].upper()  
+                else:
+                    l[ind] = l[ind].lower()
+                    
                 rec(ind + 1, l)
                 
                 # Backtrack
-                l[ind] = l[ind].upper() if l[ind].islower() else l[ind].lower()
+                if l[ind].islower():
+                    l[ind] = l[ind].upper()  
+
+                else:
+                    l[ind] = l[ind].lower()
 
         rec(0, list(s))
 
