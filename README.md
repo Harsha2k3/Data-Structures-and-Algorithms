@@ -29,6 +29,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1675-magnetic-force-between-two-balls](https://github.com/Harsha2k3/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsha2k3/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Harsha2k3/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Harsha2k3/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -65,6 +66,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0090-subsets-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Harsha2k3/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Harsha2k3/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 # Hash Table
 |  |
 | ------- |
@@ -145,6 +147,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0140-word-break-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/Harsha2k3/LeetCode/tree/master/0282-expression-add-operators) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Harsha2k3/LeetCode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 # Counting
 |  |
@@ -193,3 +196,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1370-count-number-of-nice-subarrays](https://github.com/Harsha2k3/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Harsha2k3/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Harsha2k3/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+# Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
