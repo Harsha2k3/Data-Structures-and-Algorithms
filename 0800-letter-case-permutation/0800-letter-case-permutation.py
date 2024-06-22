@@ -1,5 +1,6 @@
 class Solution(object):
     def letterCasePermutation(self, s):
+        
         res = []
 
         def rec(ind, l):
@@ -9,6 +10,7 @@ class Solution(object):
 
             if l[ind].isdigit():
                 rec(ind + 1, l)
+
             else:
                 # Recur without changing the case
                 rec(ind + 1, l)
@@ -17,8 +19,9 @@ class Solution(object):
                 l[ind] = l[ind].upper() if l[ind].islower() else l[ind].lower()
                 rec(ind + 1, l)
                 
-                # Revert the change for backtracking
+                # Backtrack
                 l[ind] = l[ind].upper() if l[ind].islower() else l[ind].lower()
 
         rec(0, list(s))
+
         return res
