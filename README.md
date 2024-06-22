@@ -92,6 +92,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0282-expression-add-operators](https://github.com/Harsha2k3/LeetCode/tree/master/0282-expression-add-operators) |
 | [0409-longest-palindrome](https://github.com/Harsha2k3/LeetCode/tree/master/0409-longest-palindrome) |
 | [0800-letter-case-permutation](https://github.com/Harsha2k3/LeetCode/tree/master/0800-letter-case-permutation) |
+| [1211-iterator-for-combination](https://github.com/Harsha2k3/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harsha2k3/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Harsha2k3/LeetCode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 # Greedy
@@ -150,6 +151,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0140-word-break-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/Harsha2k3/LeetCode/tree/master/0282-expression-add-operators) |
 | [0800-letter-case-permutation](https://github.com/Harsha2k3/LeetCode/tree/master/0800-letter-case-permutation) |
+| [1211-iterator-for-combination](https://github.com/Harsha2k3/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harsha2k3/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Harsha2k3/LeetCode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -205,3 +207,11 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+# Design
+|  |
+| ------- |
+| [1211-iterator-for-combination](https://github.com/Harsha2k3/LeetCode/tree/master/1211-iterator-for-combination) |
+# Iterator
+|  |
+| ------- |
+| [1211-iterator-for-combination](https://github.com/Harsha2k3/LeetCode/tree/master/1211-iterator-for-combination) |
