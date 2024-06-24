@@ -22,6 +22,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0907-koko-eating-bananas](https://github.com/Harsha2k3/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Harsha2k3/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harsha2k3/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Harsha2k3/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/Harsha2k3/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Harsha2k3/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Harsha2k3/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -68,6 +69,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0231-power-of-two](https://github.com/Harsha2k3/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Harsha2k3/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0800-letter-case-permutation](https://github.com/Harsha2k3/LeetCode/tree/master/0800-letter-case-permutation) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Harsha2k3/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 # Hash Table
 |  |
@@ -107,6 +109,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harsha2k3/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Harsha2k3/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Harsha2k3/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 # Sorting
 |  |
@@ -129,6 +132,7 @@ This repository provides a comprehensive overview of my progress and achievement
 # Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Harsha2k3/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Harsha2k3/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 # Simulation
@@ -205,6 +209,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsha2k3/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Harsha2k3/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/Harsha2k3/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Harsha2k3/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Harsha2k3/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
