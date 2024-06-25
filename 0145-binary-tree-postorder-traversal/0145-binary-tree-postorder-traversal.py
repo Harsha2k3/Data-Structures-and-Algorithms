@@ -16,29 +16,66 @@ class Solution(object):
 
         # # (Or)
 
+        # # Using 2 stacks
+
+        # postorder = []
+
+        # if root is None:
+        #     return postorder
+
+        # st1, st2 = [], []
+
+        # st1.append(root)
+
+        # while st1:
+
+        #     root = st1.pop()
+
+        #     st2.append(root)
+
+        #     if root.left is not None:
+        #         st1.append(root.left)
+
+        #     if root.right is not None:
+        #         st1.append(root.right)
+
+        # while st2:
+        #     postorder.append(st2[-1].val)
+        #     st2.pop()
+
+        # return postorder
+
+
+        # # (Or)
+
+        # Using 1 stack
+
+        curr = root
+
+        stack = []
+
         postorder = []
 
-        if root is None:
-            return postorder
+        while curr or stack:
 
-        st1, st2 = [], []
+            if curr:
+                stack.append(curr)
+                curr = curr.left
+            
+            else:
+                temp = stack[-1].right
 
-        st1.append(root)
+                if not temp:
+                    temp = stack[-1]
+                    stack.pop()
+                    postorder.append(temp.val)
 
-        while st1:
+                    while stack and temp == stack[-1].right:
+                        temp = stack[-1]
+                        stack.pop()
+                        postorder.append(temp.val)
 
-            root = st1.pop()
-
-            st2.append(root)
-
-            if root.left is not None:
-                st1.append(root.left)
-
-            if root.right is not None:
-                st1.append(root.right)
-
-        while st2:
-            postorder.append(st2[-1].val)
-            st2.pop()
+                else:
+                    curr = temp
 
         return postorder
