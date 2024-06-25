@@ -179,6 +179,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0110-balanced-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Harsha2k3/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
 # Breadth-First Search
 |  |
@@ -257,6 +258,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0110-balanced-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 # Binary Tree
 |  |
 | ------- |
@@ -266,3 +268,4 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0110-balanced-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0543-diameter-of-binary-tree) |
