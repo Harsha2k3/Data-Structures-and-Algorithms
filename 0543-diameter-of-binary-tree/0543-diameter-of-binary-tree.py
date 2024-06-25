@@ -1,17 +1,22 @@
-class Solution(object):
-    def diameterOfBinaryTree(self, root):
-        def rec(root, lp):
+class Solution:
+    def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
+
+        lp = 0
+
+        def rec(root):
+
+            nonlocal lp
+
             if not root:
                 return 0
 
-            lh = rec(root.left, lp)
-            rh = rec(root.right, lp)
+            lh = rec(root.left)
+            rh = rec(root.right)
 
-            lp[0] = max(lp[0], lh + rh)
+            lp = max(lp , lh + rh)
 
             return 1 + max(lh, rh)
 
-        lp = [0]  
-        rec(root, lp)
+        rec(root)
 
-        return lp[0]
+        return lp
