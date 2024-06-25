@@ -183,6 +183,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0145-binary-tree-postorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Harsha2k3/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
 # Breadth-First Search
 |  |
@@ -267,6 +268,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0145-binary-tree-postorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
 |  |
 | ------- |
@@ -280,7 +282,9 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0145-binary-tree-postorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
