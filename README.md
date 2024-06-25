@@ -177,6 +177,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0094-binary-tree-inorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -195,6 +196,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/0022-generate-parentheses) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Harsha2k3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Harsha2k3/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0140-word-break-ii) |
@@ -256,6 +258,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0102-binary-tree-level-order-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -266,6 +269,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0102-binary-tree-level-order-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0543-diameter-of-binary-tree) |
