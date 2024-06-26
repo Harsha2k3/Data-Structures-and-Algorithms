@@ -105,6 +105,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0330-patching-array](https://github.com/Harsha2k3/LeetCode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Harsha2k3/LeetCode/tree/master/0409-longest-palindrome) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Harsha2k3/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsha2k3/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Prefix Sum
 |  |
@@ -187,6 +188,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0543-diameter-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Harsha2k3/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1285-balance-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -276,6 +278,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0538-convert-bst-to-greater-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
@@ -292,8 +295,14 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0538-convert-bst-to-greater-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
