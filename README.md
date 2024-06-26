@@ -97,6 +97,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0800-letter-case-permutation](https://github.com/Harsha2k3/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1211-iterator-for-combination](https://github.com/Harsha2k3/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harsha2k3/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/Harsha2k3/LeetCode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Harsha2k3/LeetCode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 # Greedy
 |  |
@@ -226,6 +227,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1138-grumpy-bookstore-owner](https://github.com/Harsha2k3/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Harsha2k3/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Harsha2k3/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/Harsha2k3/LeetCode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Harsha2k3/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Harsha2k3/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 # Enumeration
