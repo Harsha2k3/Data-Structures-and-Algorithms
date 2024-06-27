@@ -202,6 +202,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Harsha2k3/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1916-find-center-of-star-graph](https://github.com/Harsha2k3/LeetCode/tree/master/1916-find-center-of-star-graph) |
 # Dynamic Programming
 |  |
 | ------- |
