@@ -307,3 +307,22 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Greedy
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/Harsha2k3/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+## Graph
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/Harsha2k3/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+## Sorting
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/Harsha2k3/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/Harsha2k3/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+<!---LeetCode Topics End-->
