@@ -14,14 +14,15 @@ class Solution:
 
         while q:
 
-            k = 0
+            f = 0
 
             for i in range(len(q)):
 
                 node = q.popleft()
 
-                if k == 0:
-                    k = 1
+                if f == 0:   
+                    # We use a flag, just to grab the 1st node in each level
+                    f = 1
                     res.append(node.val)
                 
                 if node.right:
@@ -29,7 +30,5 @@ class Solution:
 
                 if node.left:
                     q.append(node.left)
-
-            # res.append(level[-1])
         
         return res
