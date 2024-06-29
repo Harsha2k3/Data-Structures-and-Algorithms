@@ -30,4 +30,4 @@ class Solution:
             return rec(root1.left , root2.right) and rec(root1.right , root2.left)
             # rec(root1.right , root2.left) ==> Backtracking
 
-        return not root or rec(root1 , root2)
+        return rec(root1 , root2)
