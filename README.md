@@ -316,6 +316,7 @@ This repository provides a comprehensive overview of my progress and achievement
 ## Graph
 |  |
 | ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Harsha2k3/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Harsha2k3/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
@@ -335,14 +336,20 @@ This repository provides a comprehensive overview of my progress and achievement
 | ------- |
 | [0101-symmetric-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Harsha2k3/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Harsha2k3/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Harsha2k3/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Harsha2k3/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Harsha2k3/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+## Topological Sort
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Harsha2k3/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
