@@ -7,15 +7,15 @@ class Solution:
 
         seen = set()
 
-        def getParent(node , parent):
+        def getParent(root , parent):
 
-            if node is None:
+            if root is None:
                 return 
 
-            pm[node] = parent 
+            pm[root] = parent 
 
-            getParent(node.left, node)
-            getParent(node.right, node)
+            getParent(root.left , root)
+            getParent(root.right , root)
 
 
         def dfs(target , k):
@@ -38,4 +38,5 @@ class Solution:
             return res
 
         getParent(root , None)
+
         return dfs(target , k)
