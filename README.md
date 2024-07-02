@@ -335,6 +335,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harsha2k3/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -344,6 +345,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Harsha2k3/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harsha2k3/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -352,6 +354,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Harsha2k3/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harsha2k3/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -360,6 +363,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harsha2k3/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Topological Sort
 |  |
 | ------- |
@@ -368,6 +372,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harsha2k3/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
 |  |
 | ------- |
