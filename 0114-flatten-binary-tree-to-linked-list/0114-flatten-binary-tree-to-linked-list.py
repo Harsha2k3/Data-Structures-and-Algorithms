@@ -11,6 +11,9 @@ class Solution:
         # and attach None to left pointer of every node
         # while backtracking
 
+        # https://www.youtube.com/watch?v=sWf7k1x9XR4&list=PLkjdNRgDmcc0Pom5erUBU4ZayeU9AyRRu&index=40
+        # Watch from 3:00 to 10:00
+
         prev = None
 
         def rec(node):
