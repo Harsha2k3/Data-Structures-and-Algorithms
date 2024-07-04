@@ -51,6 +51,13 @@ class Solution(object):
         # While we visit (that node) again make sure we 
         # that the connection is removed
         # So, (that node).right = None
+        
+        # https://leetcode.com/problems/binary-tree-inorder-traversal/solutions/5415690/morris-inorder-o-1-space/
+        # See Picture here (Threaded binary tree)
+        # We make use of the connections that are created 
+        # to directly go to the root nodes of a subtree instead
+        # of backtracking 
+        # And we remove the threads (Connections)
 
 
         inorder = []
