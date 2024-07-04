@@ -1,15 +1,30 @@
-class Solution(object):
-    def inorderTraversal(self, root):
+class Solution:
+    def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
 
-        def inorder(root , arr):
+        inorder = []
 
-            if not root:
-                return
+        curr = root
 
-            inorder(root.left , arr)
-            arr.append(root.val)
-            inorder(root.right , arr)
+        while curr:
 
-            return arr
+            if not curr.left:
+                inorder.append(curr.val)
+                curr = curr.right
 
-        return inorder(root , [])
+            else:
+
+                prev = curr.left
+
+                while(prev.right and prev.right != curr):
+                    prev = prev.right
+                
+                if not prev.right:
+                    prev.right = curr
+                    curr = curr.left
+
+                else:
+                    prev.right = None
+                    inorder.append(curr.val)
+                    curr = curr.right
+        
+        return inorder
