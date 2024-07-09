@@ -344,6 +344,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harsha2k3/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -387,6 +388,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harsha2k3/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -473,4 +475,8 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
