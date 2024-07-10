@@ -1,7 +1,6 @@
 class Solution:
     def minOperations(self, logs: List[str]) -> int:
 
-        # The solution is simple
         # If we encounter "x/" ==> push file on to the stack
         # If we encounter "../" ==> pop from the stack
         # If we encounter "./" ==> Do nothing
