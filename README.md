@@ -446,6 +446,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Harsha2k3/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Design
 |  |
@@ -474,6 +475,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0094-binary-tree-inorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harsha2k3/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Harsha2k3/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Math
 |  |
