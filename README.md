@@ -426,6 +426,7 @@ This repository provides a comprehensive overview of my progress and achievement
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -444,6 +445,7 @@ This repository provides a comprehensive overview of my progress and achievement
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Harsha2k3/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
@@ -513,4 +515,8 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
