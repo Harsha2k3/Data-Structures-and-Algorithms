@@ -1,6 +1,6 @@
-class Solution(object):
-    def letterCasePermutation(self, s):
-
+class Solution:
+    def letterCasePermutation(self, s: str) -> List[str]:
+        
         # Take or not take pattern (Like in )
 
         res = []
