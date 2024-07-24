@@ -2,51 +2,37 @@ class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
 
         # Similar to 40. Combination Sum II
-        
+        # 40. Combination Sum II pattern
+
         res = []
 
-        def rec(ind , arr , subset):
+        def rec(ind , nums , l):
 
-            res.append(subset.copy())
+            res.append(l.copy())
 
-            for i in range(ind , len(arr)):
-
-                if i > ind and arr[i] == arr[i - 1]:
+            for i in range(ind , len(nums)):
+                
+                if i > ind and nums[i] == nums[i - 1]:
                     continue
                 
                 else:
-                    subset.append(arr[i])
-                    rec(i + 1 , arr , subset)
-                    subset.pop()
-        
+                    l.append(nums[i])
+                    rec(i + 1 , nums , l)
+                    l.pop()
+
         nums.sort()
         rec(0 , nums , [])
 
         return res
-            
-
-        
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        # (Or)
 
 
         # # Brute force
         # # T.C = m x log m (set ==> log m)  , where m = 2 ^ n
-        # # We will remove this logarithmic factor by optimized approach  
+        # # We will remove this logarithmic factor by optimized approach
+
         # res = []
 
         # def rec(i , subset):
