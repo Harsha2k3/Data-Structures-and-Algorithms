@@ -460,6 +460,7 @@ This repository provides a comprehensive overview of my progress and achievement
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/0022-generate-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0800-letter-case-permutation](https://github.com/Harsha2k3/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -524,9 +525,14 @@ This repository provides a comprehensive overview of my progress and achievement
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Harsha2k3/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0800-letter-case-permutation](https://github.com/Harsha2k3/LeetCode/tree/master/0800-letter-case-permutation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
