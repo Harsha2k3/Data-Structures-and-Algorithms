@@ -427,6 +427,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Harsha2k3/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -527,6 +528,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Harsha2k3/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Harsha2k3/LeetCode/tree/master/0216-combination-sum-iii) |
