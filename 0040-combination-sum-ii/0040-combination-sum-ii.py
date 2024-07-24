@@ -1,38 +1,51 @@
 class Solution:
     def combinationSum2(self, nums: List[int], t: int) -> List[List[int]]:
 
+        # Use this pattern when,
+        # We are allowed to pick each number in input array only once
+        # Input array has duplicates 
+        # When we want the solution set to not have any duplicate combinations
+
+        # Here if we use previous methods, we can't find duplicates in input array and we will use the same element present at different index and it leads to duplicates in solution set
+        # So we use for loop here to find the duplicates in input array , so that solution set will not have any duplicate combinations
+
         res = []
 
-        def rec(ind , arr , t , l):
+        def rec(ind , nums , t , l):
 
             if t == 0:
                 res.append(l.copy())
                 return
 
-            for i in range(ind , len(arr)):
-
-                if i > ind and arr[i] == arr[i - 1]:
+            for i in range(ind , len(nums)):
+                
+                if i > ind and nums[i] == nums[i - 1]:
                     continue
-                
-                if arr[i] > t:
-                    break
-                
-                else:
-                    l.append(arr[i])
-                    rec(i + 1 , arr , t - arr[i] , l)
-                    l.pop()
 
-        nums.sort()
+                if nums[i] > t:
+                    break
+
+                else:
+                    l.append(nums[i])
+                    rec(i + 1 , nums , t - nums[i] , l)
+                    l.pop()
+        
+        nums.sort()            
         rec(0 , nums , t , [])
 
         return res
+
+        
+        
+
+        
 
         # Note:-  (V.V.V.IMPORTANT)
 
         # [1,2,3,4,5,6]
 
         # sub-array ==> [3,4,5]  (Continuous)
-        # Sub-sequence ==> [2,4,5] (Might not be continuous, but follows order)
+        # Sub-sequence(sub-sets) ==> [2,4,5] (Might not be continuous, but follows order)
         # Combination  ==> [3,1,2] (Need not to follow the order too)
 
 
