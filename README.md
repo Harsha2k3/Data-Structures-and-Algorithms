@@ -421,6 +421,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1160-letter-tile-possibilities](https://github.com/Harsha2k3/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harsha2k3/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
 |  |
@@ -472,6 +473,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0257-binary-tree-paths](https://github.com/Harsha2k3/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0800-letter-case-permutation](https://github.com/Harsha2k3/LeetCode/tree/master/0800-letter-case-permutation) |
+| [1160-letter-tile-possibilities](https://github.com/Harsha2k3/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1720-crawler-log-folder](https://github.com/Harsha2k3/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -545,9 +547,14 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0257-binary-tree-paths](https://github.com/Harsha2k3/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Harsha2k3/LeetCode/tree/master/0401-binary-watch) |
 | [0800-letter-case-permutation](https://github.com/Harsha2k3/LeetCode/tree/master/0800-letter-case-permutation) |
+| [1160-letter-tile-possibilities](https://github.com/Harsha2k3/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/0022-generate-parentheses) |
+## Counting
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/Harsha2k3/LeetCode/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
