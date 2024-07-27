@@ -457,6 +457,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0078-subsets](https://github.com/Harsha2k3/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Harsha2k3/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0401-binary-watch](https://github.com/Harsha2k3/LeetCode/tree/master/0401-binary-watch) |
 | [0800-letter-case-permutation](https://github.com/Harsha2k3/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Divide and Conquer
@@ -542,6 +543,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0090-subsets-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Harsha2k3/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Harsha2k3/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Harsha2k3/LeetCode/tree/master/0401-binary-watch) |
 | [0800-letter-case-permutation](https://github.com/Harsha2k3/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Dynamic Programming
