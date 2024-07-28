@@ -357,6 +357,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0904-leaf-similar-trees](https://github.com/Harsha2k3/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harsha2k3/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -378,6 +379,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0904-leaf-similar-trees](https://github.com/Harsha2k3/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Harsha2k3/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harsha2k3/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -417,6 +419,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0904-leaf-similar-trees](https://github.com/Harsha2k3/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harsha2k3/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Topological Sort
 |  |
