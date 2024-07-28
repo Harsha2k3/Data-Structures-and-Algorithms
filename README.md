@@ -315,6 +315,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harsha2k3/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Harsha2k3/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Harsha2k3/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Harsha2k3/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Graph
 |  |
 | ------- |
@@ -478,6 +479,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1720-crawler-log-folder](https://github.com/Harsha2k3/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Harsha2k3/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Harsha2k3/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Design
 |  |
 | ------- |
@@ -509,6 +511,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Harsha2k3/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Harsha2k3/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Harsha2k3/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Math
 |  |
 | ------- |
@@ -549,6 +552,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0800-letter-case-permutation](https://github.com/Harsha2k3/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/Harsha2k3/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Harsha2k3/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
 |  |
 | ------- |
