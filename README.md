@@ -384,6 +384,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/Harsha2k3/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Harsha2k3/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harsha2k3/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -551,6 +552,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0257-binary-tree-paths](https://github.com/Harsha2k3/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Harsha2k3/LeetCode/tree/master/0401-binary-watch) |
 | [0800-letter-case-permutation](https://github.com/Harsha2k3/LeetCode/tree/master/0800-letter-case-permutation) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/Harsha2k3/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1160-letter-tile-possibilities](https://github.com/Harsha2k3/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1331-path-with-maximum-gold](https://github.com/Harsha2k3/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
