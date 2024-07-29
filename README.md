@@ -356,6 +356,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0617-merge-two-binary-trees](https://github.com/Harsha2k3/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Harsha2k3/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Harsha2k3/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -382,6 +383,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0606-construct-string-from-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Harsha2k3/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Harsha2k3/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Harsha2k3/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -399,6 +401,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Harsha2k3/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Harsha2k3/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Harsha2k3/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Harsha2k3/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -428,6 +431,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0617-merge-two-binary-trees](https://github.com/Harsha2k3/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Harsha2k3/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Harsha2k3/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -561,6 +565,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Harsha2k3/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
