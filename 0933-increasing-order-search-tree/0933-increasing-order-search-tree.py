@@ -1,6 +1,10 @@
 class Solution:
     def increasingBST(self, root: TreeNode) -> TreeNode:
 
+        # Traverse through inorder traversal
+        # Keep track of previous node at every node
+        # Assign prev.right = root (Current Node)
+
         prev = None
         new_root = None
 
@@ -20,6 +24,7 @@ class Solution:
                 new_root = root
 
             root.left = None
+
             prev = root
 
             inorder(root.right)
