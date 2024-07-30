@@ -354,6 +354,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0257-binary-tree-paths](https://github.com/Harsha2k3/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0563-binary-tree-tilt](https://github.com/Harsha2k3/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Harsha2k3/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -388,6 +389,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Harsha2k3/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Harsha2k3/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Harsha2k3/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -446,6 +448,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0257-binary-tree-paths](https://github.com/Harsha2k3/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0563-binary-tree-tilt](https://github.com/Harsha2k3/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Harsha2k3/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
