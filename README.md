@@ -363,6 +363,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0933-increasing-order-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Harsha2k3/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Harsha2k3/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -391,6 +392,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0904-leaf-similar-trees](https://github.com/Harsha2k3/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Harsha2k3/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Harsha2k3/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -442,6 +444,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0933-increasing-order-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Harsha2k3/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Harsha2k3/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
