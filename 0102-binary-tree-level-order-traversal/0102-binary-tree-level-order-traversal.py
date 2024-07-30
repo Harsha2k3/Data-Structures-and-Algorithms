@@ -12,6 +12,8 @@ class Solution(object):
 
         q.append(root)
 
+        j = 0
+
         while q:
 
             level = []
@@ -24,7 +26,7 @@ class Solution(object):
 
                 if node.left:
                     q.append(node.left)
-                
+                    
                 if node.right:
                     q.append(node.right)
 
