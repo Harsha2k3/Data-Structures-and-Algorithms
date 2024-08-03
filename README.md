@@ -326,6 +326,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Harsha2k3/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harsha2k3/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Harsha2k3/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
@@ -376,6 +377,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Harsha2k3/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Harsha2k3/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Harsha2k3/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Harsha2k3/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Harsha2k3/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -418,6 +420,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Harsha2k3/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Harsha2k3/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Harsha2k3/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Harsha2k3/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Harsha2k3/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -494,6 +497,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Harsha2k3/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Harsha2k3/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Harsha2k3/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Harsha2k3/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Harsha2k3/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -636,6 +640,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0933-increasing-order-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Harsha2k3/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Monotonic Stack
 |  |
 | ------- |
