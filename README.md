@@ -691,4 +691,5 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [1258-article-views-i](https://github.com/Harsha2k3/LeetCode/tree/master/1258-article-views-i) |
+| [1827-invalid-tweets](https://github.com/Harsha2k3/LeetCode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
