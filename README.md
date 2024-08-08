@@ -690,6 +690,7 @@ This repository provides a comprehensive overview of my progress and achievement
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/Harsha2k3/LeetCode/tree/master/0197-rising-temperature) |
 | [0620-not-boring-movies](https://github.com/Harsha2k3/LeetCode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Harsha2k3/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Harsha2k3/LeetCode/tree/master/1258-article-views-i) |
