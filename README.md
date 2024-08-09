@@ -694,6 +694,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0620-not-boring-movies](https://github.com/Harsha2k3/LeetCode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Harsha2k3/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Harsha2k3/LeetCode/tree/master/1258-article-views-i) |
+| [1390-average-selling-price](https://github.com/Harsha2k3/LeetCode/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Harsha2k3/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Harsha2k3/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Harsha2k3/LeetCode/tree/master/1827-invalid-tweets) |
