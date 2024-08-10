@@ -7,9 +7,6 @@ class Solution:
         def dfs(root):
 
             nonlocal l , res
-
-            if not root:
-                return
             
             if not root.left and not root.right:
                 l.append(str(root.val))
