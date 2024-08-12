@@ -719,6 +719,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1182-game-play-analysis-iv](https://github.com/Harsha2k3/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Harsha2k3/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Harsha2k3/LeetCode/tree/master/1258-article-views-i) |
+| [1278-product-price-at-a-given-date](https://github.com/Harsha2k3/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/Harsha2k3/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Harsha2k3/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Harsha2k3/LeetCode/tree/master/1338-queries-quality-and-percentage) |
