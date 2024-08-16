@@ -366,6 +366,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0563-binary-tree-tilt](https://github.com/Harsha2k3/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Harsha2k3/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -417,6 +418,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0563-binary-tree-tilt](https://github.com/Harsha2k3/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Harsha2k3/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -455,6 +457,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0513-find-bottom-left-tree-value](https://github.com/Harsha2k3/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Harsha2k3/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Harsha2k3/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -500,6 +503,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0563-binary-tree-tilt](https://github.com/Harsha2k3/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Harsha2k3/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
