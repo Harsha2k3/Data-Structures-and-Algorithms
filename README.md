@@ -379,6 +379,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0933-increasing-order-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Harsha2k3/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Harsha2k3/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -432,6 +433,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0933-increasing-order-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Harsha2k3/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Harsha2k3/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Harsha2k3/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -521,6 +523,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0933-increasing-order-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Harsha2k3/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Harsha2k3/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -606,6 +609,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0800-letter-case-permutation](https://github.com/Harsha2k3/LeetCode/tree/master/0800-letter-case-permutation) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Harsha2k3/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1160-letter-tile-possibilities](https://github.com/Harsha2k3/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -695,6 +699,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0401-binary-watch](https://github.com/Harsha2k3/LeetCode/tree/master/0401-binary-watch) |
 | [0800-letter-case-permutation](https://github.com/Harsha2k3/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Harsha2k3/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Harsha2k3/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1160-letter-tile-possibilities](https://github.com/Harsha2k3/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1331-path-with-maximum-gold](https://github.com/Harsha2k3/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
