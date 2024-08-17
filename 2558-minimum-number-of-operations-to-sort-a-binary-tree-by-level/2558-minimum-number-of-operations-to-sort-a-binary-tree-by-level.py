@@ -32,7 +32,7 @@ class Solution:
 
                 for i in range(len(level)):
                     if level[i] != sorted_level[i]:
-                        j = level.index(sorted_level[i], i)
+                        j = level.index(sorted_level[i])
                         level[i] , level[j] = level[j] , level[i]
                         swaps += 1
                 
