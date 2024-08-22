@@ -1,7 +1,7 @@
 class Solution:
     def findComplement(self, num: int) -> int:
         
-        return num ^ (2**(len(bin(num)[2:]))-1)
+        return num ^ (2**(len(bin(num)[2:])) - 1)
 
         # Just do XOR with all 1's
         # Because, if we have 0 ==> 0 XOR 1 = 1 (0 -> 1) 
