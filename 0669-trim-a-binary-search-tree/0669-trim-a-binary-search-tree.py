@@ -7,10 +7,10 @@ class Solution:
         root.left = self.trimBST(root.left , low , high)
         root.right = self.trimBST(root.right , low , high)    
         
-        if(low <= root.val <= high):
+        if low <= root.val <= high:
             return root
             
-        if root.left:
+        elif root.left:
             return root.left
             
         else:
