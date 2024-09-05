@@ -370,6 +370,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0623-add-one-row-to-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Harsha2k3/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -425,6 +426,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0623-add-one-row-to-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Harsha2k3/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/Harsha2k3/LeetCode/tree/master/0832-binary-tree-pruning) |
@@ -514,6 +516,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0623-add-one-row-to-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Harsha2k3/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -676,6 +679,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0450-delete-node-in-a-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Harsha2k3/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0933-increasing-order-search-tree) |
