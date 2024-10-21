@@ -5,17 +5,19 @@ class Solution:
 
         res = []
 
-        def rec(i , subset):
+        def rec(i , l):
+
+            nonlocal res
 
             if i == len(nums):
-                res.append(subset.copy())
+                res.append(l.copy())
                 return
-            
-            subset.append(nums[i])
-            rec(i + 1 , subset)
-            subset.pop()
-            rec(i + 1 , subset)
+
+            l.append(nums[i])
+            rec(i + 1 , l)
+            l.pop()
+            rec(i + 1 , l)
 
         rec(0 , [])
-
+        
         return res
