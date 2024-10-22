@@ -6,7 +6,7 @@ class Solution:
 
         res = []
 
-        def rec(ind , nums , l):
+        def rec(ind , l):
 
             res.append(l.copy())
 
@@ -17,11 +17,11 @@ class Solution:
                 
                 else:
                     l.append(nums[i])
-                    rec(i + 1 , nums , l)
+                    rec(i + 1 , l)
                     l.pop()
-
+        
         nums.sort()
-        rec(0 , nums , [])
+        rec(0 , [])
 
         return res
 
