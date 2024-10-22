@@ -11,7 +11,7 @@ class Solution:
 
         res = []
 
-        def rec(ind , nums , t , l):
+        def rec(ind , t , l):
 
             if t == 0:
                 res.append(l.copy())
@@ -27,11 +27,11 @@ class Solution:
 
                 else: 
                     l.append(nums[i])
-                    rec(i + 1 , nums , t - nums[i] , l)
+                    rec(i + 1 , t - nums[i] , l)
                     l.pop()
         
         nums.sort()
-        rec(0 , nums , t , [])
+        rec(0 , t , [])
 
         return res
 
