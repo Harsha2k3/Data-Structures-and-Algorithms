@@ -16,27 +16,24 @@ class Solution:
             if t == 0:
                 res.append(l.copy())
                 return
-
+            
             for i in range(ind , len(nums)):
-                
+
                 if i > ind and nums[i] == nums[i - 1]:
                     continue
-
-                if nums[i] > t:
+                
+                if  nums[i] > t:
                     break
 
-                else:
+                else: 
                     l.append(nums[i])
                     rec(i + 1 , nums , t - nums[i] , l)
                     l.pop()
         
-        nums.sort()            
+        nums.sort()
         rec(0 , nums , t , [])
 
         return res
-
-        
-        
 
         
 
