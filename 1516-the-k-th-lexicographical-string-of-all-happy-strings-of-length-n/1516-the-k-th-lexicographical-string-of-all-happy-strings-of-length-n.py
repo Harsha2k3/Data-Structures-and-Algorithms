@@ -1,9 +1,11 @@
-class Solution(object):
-    def getHappyString(self, n, k):
-
+class Solution:
+    def getHappyString(self, n: int, k: int) -> str:
+        
         res = []
 
         def rec(l):
+
+            nonlocal res
 
             if len(res) == k:
                 return
@@ -17,7 +19,7 @@ class Solution(object):
                     l.append(i)
                     rec(l)
                     l.pop()
-
+        
         rec([])
 
         return res[-1] if len(res) >= k else ""
