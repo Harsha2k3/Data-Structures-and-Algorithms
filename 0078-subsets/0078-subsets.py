@@ -8,7 +8,7 @@ class Solution:
         def rec(i , l):
 
             nonlocal res
-
+            
             if i == len(nums):
                 res.append(l.copy())
                 return
@@ -17,7 +17,7 @@ class Solution:
             rec(i + 1 , l)
             l.pop()
             rec(i + 1 , l)
-
-        rec(0 , [])
         
+        rec(0 , [])
+
         return res
