@@ -2,7 +2,7 @@ class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
 
         # Similar to 40. Combination Sum II
-        # 40. Combination Sum II pattern
+        # 40. Combination Sum II pattern, but we have to add every combination to the res
 
         res = []
 
@@ -11,7 +11,7 @@ class Solution:
             res.append(l.copy())
 
             for i in range(ind , len(nums)):
-                
+
                 if i > ind and nums[i] == nums[i - 1]:
                     continue
                 
