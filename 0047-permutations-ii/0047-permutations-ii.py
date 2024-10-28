@@ -4,7 +4,8 @@ class Solution:
         res = []
 
         def rec(ind, nums):
-            if ind > len(nums) - 1:
+
+            if ind == len(nums):
                 res.append(nums.copy())
                 return
 
@@ -18,11 +19,9 @@ class Solution:
                 rec(ind + 1, nums)
                 nums[ind], nums[i] = nums[i], nums[ind]
 
-        
         rec(0, nums)
 
         return res
-
 
 
 
