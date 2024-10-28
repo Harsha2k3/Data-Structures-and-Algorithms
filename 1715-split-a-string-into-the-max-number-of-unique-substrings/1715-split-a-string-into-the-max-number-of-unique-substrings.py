@@ -10,22 +10,25 @@ class Solution:
         # For aba,b ==> aba,b
 
         res = 0
-        set_ = set()
+        se = set()
 
         def rec(ind):
 
             nonlocal res
-
+            
             if ind == len(s):
-                res = max(res , len(set_))
+                res = max(res , len(se))
                 return
 
             for i in range(ind , len(s)):
-                if s[ind : i + 1] not in set_:
-                    set_.add(s[ind : i + 1])
-                    rec(i + 1)
-                    set_.remove(s[ind : i + 1])
+                
+                str_ = s[ind : i + 1]
 
+                if str_ not in se:
+                    se.add(str_)
+                    rec(i + 1)
+                    se.remove(str_)
+        
         rec(0)
 
         return res
