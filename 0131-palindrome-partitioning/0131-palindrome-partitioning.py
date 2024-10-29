@@ -1,21 +1,23 @@
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
-        
+
         res = []
-        part = []    # Partitions
 
-        def rec(ind):
+        def rec(ind , l):
 
-            if ind > len(s) - 1:
-                res.append(part.copy())
-                return
+            nonlocal res
             
+            if ind == len(s):
+                res.append(l.copy())
+                return
+
             for i in range(ind , len(s)):
                 if s[ind : i + 1] == s[ind : i + 1][::-1]:
-                    part.append(s[ind : i + 1])
-                    rec(i + 1)
-                    part.pop()
-
-        rec(0)
+                    part = s[ind : i + 1]
+                    l.append(part)
+                    rec(i + 1 , l)
+                    l.pop()
+        
+        rec(0 , [])
 
         return res
