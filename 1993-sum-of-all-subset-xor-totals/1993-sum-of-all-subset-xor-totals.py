@@ -11,8 +11,10 @@ class Solution:
                 res += xor
                 return
 
+            # l.append(nums[i])
             xor ^= nums[i]
             rec(i + 1 , xor)
+            # l.pop()
             xor ^= nums[i]
             rec(i + 1 , xor)
         
