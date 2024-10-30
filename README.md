@@ -314,6 +314,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harsha2k3/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Harsha2k3/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/Harsha2k3/LeetCode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Harsha2k3/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Harsha2k3/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsha2k3/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -679,6 +680,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0202-happy-number](https://github.com/Harsha2k3/LeetCode/tree/master/0202-happy-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Harsha2k3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/Harsha2k3/LeetCode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2645-pass-the-pillow](https://github.com/Harsha2k3/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
@@ -734,6 +736,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Harsha2k3/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Harsha2k3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Harsha2k3/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/Harsha2k3/LeetCode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Harsha2k3/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
 |  |
