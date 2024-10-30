@@ -1,6 +1,9 @@
 class Solution:
     def maximumEvenSplit(self, fs: int) -> List[int]:
 
+        # Refer this for Recursion tree,
+        # https://leetcode.com/problems/maximum-split-of-positive-even-integers/solutions/5985742/backtracking-and-early-termination-to-avoid-tle/?envType=problem-list-v2&envId=backtracking&difficulty=EASY%2CMEDIUM
+
         res = []
         
         if fs % 2:
