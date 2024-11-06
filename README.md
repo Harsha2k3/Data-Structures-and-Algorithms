@@ -552,6 +552,7 @@ This repository provides a comprehensive overview of my progress and achievement
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Harsha2k3/LeetCode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0202-happy-number](https://github.com/Harsha2k3/LeetCode/tree/master/0202-happy-number) |
@@ -569,6 +570,7 @@ This repository provides a comprehensive overview of my progress and achievement
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Harsha2k3/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Harsha2k3/LeetCode/tree/master/0046-permutations) |
@@ -717,6 +719,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Harsha2k3/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Harsha2k3/LeetCode/tree/master/0046-permutations) |
@@ -758,6 +761,7 @@ This repository provides a comprehensive overview of my progress and achievement
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Harsha2k3/LeetCode/tree/master/0037-sudoku-solver) |
 | [1331-path-with-maximum-gold](https://github.com/Harsha2k3/LeetCode/tree/master/1331-path-with-maximum-gold) |
 ## Database
 |  |
