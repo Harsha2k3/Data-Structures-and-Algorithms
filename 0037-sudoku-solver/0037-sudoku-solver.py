@@ -5,21 +5,23 @@ class Solution:
 
             for i in range(9):
 
-                if board[i][col] == c:
-                    return False
-                
                 if board[row][i] == c:
                     return False
                 
-            
-            start_row , start_col = 3 * (row // 3) , 3 * (col // 3)
+                if board[i][col] == c:
+                    return False
 
-            for i in range(3):
-                for j in range(3):
-                    if board[start_row + i][start_col + j] == c:
-                        return False
-            
+                start_row , start_col = 3 * (row // 3) , 3 * (col // 3)
+
+                # Traversing that 3 x 3 grid
+
+                for i in range(3):
+                    for j in range(3):
+                        if board[start_row + i][start_col + j] == c:
+                            return False
+                
             return True
+
 
         def rec():
 
@@ -35,5 +37,5 @@ class Solution:
                                     board[i][j] = "."
                         return False
             return True
-
+        
         rec()
