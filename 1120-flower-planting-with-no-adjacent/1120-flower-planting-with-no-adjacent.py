@@ -11,7 +11,7 @@ class Solution:
 
     def solve(self, node, color, m, N, graph):
 
-        if node == N:
+        if node == N + 1:
             return True
 
         for i in range(1, m + 1):
@@ -28,16 +28,18 @@ class Solution:
     def gardenNoAdj(self, N: int, paths: List[List[int]]) -> List[int]:
         
         # Create adjacency list for the graph
-        graph = [[] for _ in range(N)]
+        graph = [[0 , 0]] + [[] for _ in range(N)]
 
         for u, v in paths:
-            graph[u - 1].append(v - 1)
-            graph[v - 1].append(u - 1)
+            graph[u].append(v)
+            graph[v].append(u)
+        
+        print(graph)
 
-        color = [0] * N
+        color = [0] * (N + 1)
         m = 4
 
-        if self.solve(0, color, m, N, graph):
-            return color
+        if self.solve(1, color, m, N, graph):
+            return color[1:]
         else:
             return []
