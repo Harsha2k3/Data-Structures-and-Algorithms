@@ -321,6 +321,7 @@ This repository provides a comprehensive overview of my progress and achievement
 ## Graph
 |  |
 | ------- |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Harsha2k3/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Harsha2k3/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Harsha2k3/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Harsha2k3/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -442,6 +443,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Harsha2k3/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Harsha2k3/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Harsha2k3/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Harsha2k3/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Harsha2k3/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Harsha2k3/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -476,6 +478,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Harsha2k3/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1035-cousins-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Harsha2k3/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Harsha2k3/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Harsha2k3/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Harsha2k3/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
