@@ -1,9 +1,3 @@
-
-
-
-
-
-
 class Solution:
     def gardenNoAdj(self, n: int, paths: List[List[int]]) -> List[int]:
 
@@ -15,6 +9,7 @@ class Solution:
             graph[v].append(u)
 
         # graph = [[0, 0], [2, 3], [1, 3], [2, 1]]
+        # [0,0] ==> For avoiding index errors
         # Neighbours of node 1 ==> 2 , 3
         # Neighbours of node 2 ==> 1 , 3
         # Neighbours of node 3 ==> 2 , 1
