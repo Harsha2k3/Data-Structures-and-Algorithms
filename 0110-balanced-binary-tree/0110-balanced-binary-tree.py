@@ -1,24 +1,22 @@
-class Solution(object):
-    def isBalanced(self, root):
+class Solution:
+    def isBalanced(self, root: Optional[TreeNode]) -> bool:
+        
+        res = True
 
-        def check(root):
+        def dfs(root):
+
+            nonlocal res
 
             if not root:
                 return 0
 
-            lh = check(root.left)
+            lh = dfs(root.left)
+            rh = dfs(root.right)
 
-            if lh == -1:
-                return -1
-
-            rh = check(root.right)
-
-            if rh == -1:
-                return -1
-
-            if abs(lh - rh) > 1:
-                return -1
+            res &= (abs(rh - lh) <= 1)
 
             return 1 + max(lh , rh)
-
-        return check(root) != -1
+        
+        dfs(root)
+        
+        return res
