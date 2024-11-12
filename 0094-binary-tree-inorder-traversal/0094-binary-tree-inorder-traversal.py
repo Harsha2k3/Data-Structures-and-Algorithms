@@ -1,18 +1,21 @@
 class Solution(object):
     def inorderTraversal(self, root):
 
-        # def inorder(root , arr):
+        if not root:
+            return []
 
-        #     if not root:
-        #         return
+        def inorder(root , arr):
 
-        #     inorder(root.left , arr)
-        #     arr.append(root.val)
-        #     inorder(root.right , arr)
+            if not root:
+                return
 
-        #     return arr
+            inorder(root.left , arr)
+            arr.append(root.val)
+            inorder(root.right , arr)
 
-        # return inorder(root , [])
+            return arr
+        
+        return inorder(root , [])
 
 
 
@@ -25,7 +28,8 @@ class Solution(object):
 
         # while root or stack:
 
-        #     while root:
+        #     # At every node go to left most node
+        #     while root:              
         #         stack.append(root)
         #         root = root.left
 
