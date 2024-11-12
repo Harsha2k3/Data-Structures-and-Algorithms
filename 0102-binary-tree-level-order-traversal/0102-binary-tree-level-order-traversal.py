@@ -3,16 +3,14 @@ from collections import deque
 class Solution(object):
     def levelOrder(self, root):
 
+        if not root:
+            return []
+
         res = []
 
         q = deque()
 
-        if not root:
-            return res
-
         q.append(root)
-
-        j = 0
 
         while q:
 
@@ -26,10 +24,10 @@ class Solution(object):
 
                 if node.left:
                     q.append(node.left)
-                    
+                
                 if node.right:
                     q.append(node.right)
-
+            
             res.append(level)
         
         return res
