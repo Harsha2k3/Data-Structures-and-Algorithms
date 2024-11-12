@@ -11,20 +11,20 @@ class Solution:
 
         lp = 0
 
-        def rec(root):
+        def dfs(root):
 
             nonlocal lp
 
             if not root:
                 return 0
-
-            lh = rec(root.left)
-            rh = rec(root.right)
+            
+            lh = dfs(root.left)
+            rh = dfs(root.right)
 
             lp = max(lp , lh + rh)
 
-            return 1 + max(lh, rh)
-
-        rec(root)
-
+            return 1 + max(lh , rh)
+        
+        dfs(root)
+        
         return lp
