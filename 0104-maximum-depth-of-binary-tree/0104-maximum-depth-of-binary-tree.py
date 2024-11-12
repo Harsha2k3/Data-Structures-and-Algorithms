@@ -1,14 +1,14 @@
-class Solution(object):
-    def maxDepth(self, root):
+class Solution:
+    def maxDepth(self, root: Optional[TreeNode]) -> int:
 
-        def rec(root):
+        def dfs(root):
 
             if not root:
                 return 0
-
-            lh = rec(root.left)
-            rh = rec(root.right)
+            
+            lh = dfs(root.left)
+            rh = dfs(root.right)
 
             return 1 + max(lh , rh)
-
-        return rec(root)
+        
+        return dfs(root)
