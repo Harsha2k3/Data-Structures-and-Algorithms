@@ -353,6 +353,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0111-minimum-depth-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harsha2k3/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Harsha2k3/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Harsha2k3/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -413,6 +414,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0111-minimum-depth-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harsha2k3/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Harsha2k3/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Harsha2k3/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -505,6 +507,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0111-minimum-depth-of-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harsha2k3/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Harsha2k3/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Harsha2k3/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -764,6 +767,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/0022-generate-parentheses) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Harsha2k3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Harsha2k3/LeetCode/tree/master/0139-word-break) |
 ## Counting
