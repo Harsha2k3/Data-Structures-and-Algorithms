@@ -16,8 +16,8 @@ class Solution:
             mls = max(0 , rec(root.left))     # Max left sum
             mrs = max(0 , rec(root.right))    # Max right sum
 
-            # Here we do mls = max(0 , rec(root.left))
-            # not mls = max(mls , rec(root.left))
+            # Here we do mls = max(0 , rec(root.left)) and mrs = max(0 , rec(root.right))
+            # not mls = max(mls , rec(root.left)) and mrs = max(mrs , rec(root.right))
             # Because we should not consider -ve values
             # https://www.youtube.com/watch?v=WszrfSwMz58&list=PLkjdNRgDmcc0Pom5erUBU4ZayeU9AyRRu&index=19
             # Watch from 13:24 to 14:41
