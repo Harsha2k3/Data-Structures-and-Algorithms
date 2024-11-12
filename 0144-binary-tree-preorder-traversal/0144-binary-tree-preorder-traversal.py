@@ -1,6 +1,22 @@
 class Solution(object):
     def preorderTraversal(self, root):
 
+        if not root:
+            return []
+
+        def preorder(root , arr):
+
+            if not root:
+                return
+
+            arr.append(root.val)
+            preorder(root.left , arr)
+            preorder(root.right , arr)
+
+            return arr
+        
+        return preorder(root , [])
+
         # def preorder(root , arr):
 
         #     if not root:
@@ -49,30 +65,30 @@ class Solution(object):
 
 
 
-        preorder = []
+        # preorder = []
 
-        curr = root
+        # curr = root
 
-        while curr:
+        # while curr:
 
-            if not curr.left:
-                preorder.append(curr.val)
-                curr = curr.right
+        #     if not curr.left:
+        #         preorder.append(curr.val)
+        #         curr = curr.right
 
-            else:
+        #     else:
 
-                prev = curr.left
+        #         prev = curr.left
 
-                while(prev.right and prev.right != curr):
-                    prev = prev.right
+        #         while(prev.right and prev.right != curr):
+        #             prev = prev.right
                 
-                if not prev.right:
-                    prev.right = curr
-                    preorder.append(curr.val)
-                    curr = curr.left
+        #         if not prev.right:
+        #             prev.right = curr
+        #             preorder.append(curr.val)
+        #             curr = curr.left
 
-                else:
-                    prev.right = None
-                    curr = curr.right
+        #         else:
+        #             prev.right = None
+        #             curr = curr.right
         
-        return preorder
+        # return preorder
