@@ -330,6 +330,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0941-sort-array-by-parity](https://github.com/Harsha2k3/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Harsha2k3/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harsha2k3/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Harsha2k3/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -386,6 +387,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0933-increasing-order-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Harsha2k3/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -444,6 +446,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0933-increasing-order-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Harsha2k3/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Harsha2k3/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -482,6 +485,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Harsha2k3/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Harsha2k3/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -540,6 +544,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0933-increasing-order-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Harsha2k3/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Harsha2k3/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -571,6 +576,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0202-happy-number](https://github.com/Harsha2k3/LeetCode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/Harsha2k3/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Harsha2k3/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2107-find-unique-binary-string](https://github.com/Harsha2k3/LeetCode/tree/master/2107-find-unique-binary-string) |
