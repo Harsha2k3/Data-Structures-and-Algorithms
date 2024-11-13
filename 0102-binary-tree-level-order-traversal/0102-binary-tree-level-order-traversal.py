@@ -5,7 +5,7 @@ class Solution:
 
         if not root:
             return []
-                    
+
         res = []
 
         q = deque()
@@ -29,5 +29,5 @@ class Solution:
                     q.append(node.right)
             
             res.append(level)
-        
+
         return res
