@@ -1,11 +1,11 @@
 from collections import deque
 
-class Solution(object):
-    def levelOrder(self, root):
+class Solution:
+    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
 
         if not root:
             return []
-
+                    
         res = []
 
         q = deque()
