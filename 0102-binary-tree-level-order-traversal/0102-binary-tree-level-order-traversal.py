@@ -5,12 +5,12 @@ class Solution:
 
         if not root:
             return []
-
-        res = []
-
+        
         q = deque()
 
         q.append(root)
+
+        res = []
 
         while q:
 
@@ -27,7 +27,7 @@ class Solution:
                 
                 if node.right:
                     q.append(node.right)
-            
-            res.append(level)
 
+            res.append(level)
+        
         return res
