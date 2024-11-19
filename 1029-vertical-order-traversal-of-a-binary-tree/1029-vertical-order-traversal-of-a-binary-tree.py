@@ -8,7 +8,7 @@ class Solution:
         
         node_list = []
 
-        q = deque([(root , 0 , 0)])    # root , vertical , level
+        q = deque([(root , 0 , 0)])   # Root , Vertical , Level
 
         while q:
 
@@ -20,21 +20,21 @@ class Solution:
 
                 if node.left:
                     q.append((node.left , v - 1 , l + 1))
-
+                
                 if node.right:
                     q.append((node.right , v + 1 , l + 1))
-
+                
         print(node_list)
-        
+
         node_list.sort()
 
         print(node_list)
 
         res = defaultdict(list)
 
-        for v , l , node in node_list:
-            res[v].append(node)
-
-        print(res)
+        for v , l , node_val in node_list:
+            res[v].append(node_val)
         
+        print(res)
+
         return [res[i] for i in sorted(res.keys())]
