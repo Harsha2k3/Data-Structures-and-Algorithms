@@ -1,6 +1,8 @@
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
 
+        lh , rh = 0 , 0
+
         def dfs(root):
 
             if not root:
