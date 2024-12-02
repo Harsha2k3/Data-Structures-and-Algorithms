@@ -1,94 +1,22 @@
-class Solution(object):
-    def preorderTraversal(self, root):
+class Solution:
+    def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
 
         if not root:
             return []
 
-        def preorder(root , arr):
+        res = []
+
+        def dfs(root):
+
+            nonlocal res
 
             if not root:
                 return
-
-            arr.append(root.val)
-            preorder(root.left , arr)
-            preorder(root.right , arr)
-
-            return arr
+            
+            res.append(root.val)
+            dfs(root.left)
+            dfs(root.right)
         
-        return preorder(root , [])
-
-        # def preorder(root , arr):
-
-        #     if not root:
-        #         return
-
-        #     arr.append(root.val)
-        #     preorder(root.left , arr)
-        #     preorder(root.right , arr)
-
-        #     return arr
-
-        # return preorder(root , [])
-
-
-        # # (Or)
-
-
-        # preorder = []
+        dfs(root)
         
-        # if root is None:
-        #     return preorder
-        
-        # stack = []
-        # stack.append(root)
-        
-        # while stack:
-
-        #     root = stack.pop()
-
-        #     preorder.append(root.val)
-
-        #     if root.right:
-        #         stack.append(root.right)
-
-        #     if root.left:
-        #         stack.append(root.left)
-
-        # return preorder
-
-
-
-        # Same as Morris Inorder 
-        # Just keep preorder.append(curr.val) in "if not prev.right:"
-        # Because, as it's root-left-right we have to take
-        # the node when we are making the connection
-
-
-
-        # preorder = []
-
-        # curr = root
-
-        # while curr:
-
-        #     if not curr.left:
-        #         preorder.append(curr.val)
-        #         curr = curr.right
-
-        #     else:
-
-        #         prev = curr.left
-
-        #         while(prev.right and prev.right != curr):
-        #             prev = prev.right
-                
-        #         if not prev.right:
-        #             prev.right = curr
-        #             preorder.append(curr.val)
-        #             curr = curr.left
-
-        #         else:
-        #             prev.right = None
-        #             curr = curr.right
-        
-        # return preorder
+        return res
