@@ -8,6 +8,8 @@ class Solution:
 
         def rec(ind , l):
 
+            nonlocal res
+
             res.append(l.copy())
 
             for i in range(ind , len(nums)):
@@ -15,10 +17,9 @@ class Solution:
                 if i > ind and nums[i] == nums[i - 1]:
                     continue
                 
-                else:
-                    l.append(nums[i])
-                    rec(i + 1 , l)
-                    l.pop()
+                l.append(nums[i])
+                rec(i + 1 , l)
+                l.pop()
         
         nums.sort()
         rec(0 , [])
