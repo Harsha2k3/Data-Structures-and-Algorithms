@@ -7,21 +7,21 @@ class Solution:
 
         res = []
 
-        def rec(i , l , t):
+        def rec(i , t , l):
 
             nonlocal res
 
             if i == len(nums):
                 if t == 0:
                     res.append(l.copy())
-                return        
-
+                return
+            
             if nums[i] <= t:
                 l.append(nums[i])
-                rec(i , l , t - nums[i])
+                rec(i , t - nums[i] , l)
                 l.pop()
-            rec(i + 1 , l , t)
+            rec(i + 1 , t , l)
         
-        rec(0 , [] , t)
+        rec(0 , t , [])
 
         return res
