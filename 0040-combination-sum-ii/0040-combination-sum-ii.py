@@ -13,28 +13,31 @@ class Solution:
 
         def rec(ind , t , l):
 
+            nonlocal res
+
             if t == 0:
                 res.append(l.copy())
                 return
-            
-            for i in range(ind , len(nums)):
+                
+            if ind == len(nums):
+                return
 
+            for i in range(ind , len(nums)):
+                
+                if t < nums[i]:
+                    break
+                
                 if i > ind and nums[i] == nums[i - 1]:
                     continue
                 
-                if  nums[i] > t:
-                    break
-
-                else: 
-                    l.append(nums[i])
-                    rec(i + 1 , t - nums[i] , l)
-                    l.pop()
+                l.append(nums[i])
+                rec(i + 1 , t - nums[i] , l)
+                l.pop()
         
         nums.sort()
         rec(0 , t , [])
 
         return res
-
         
 
         # Note:-  (V.V.V.IMPORTANT)
