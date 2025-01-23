@@ -6,48 +6,48 @@ class Solution:
         # T.C = n! x n  (Combinations ==> n! and for loop ==> n)
         # S.C = O(n) auxiliary S.C for recursion
 
-        res = []
+        # res = []
 
-        def rec(ind , nums):
+        # def rec(ind , nums):
 
-            nonlocal res
+        #     nonlocal res
             
-            if ind == len(nums):
-                res.append(nums.copy())
-                return
+        #     if ind == len(nums):
+        #         res.append(nums.copy())
+        #         return
 
-            for i in range(ind , len(nums)):
-                nums[i] , nums[ind] = nums[ind] , nums[i]
-                rec(ind + 1 , nums)
-                nums[i] , nums[ind] = nums[ind] , nums[i]
+        #     for i in range(ind , len(nums)):
+        #         nums[i] , nums[ind] = nums[ind] , nums[i]
+        #         rec(ind + 1 , nums)
+        #         nums[i] , nums[ind] = nums[ind] , nums[i]
         
-        rec(0 , nums)
+        # rec(0 , nums)
 
-        return res
+        # return res
 
 
         # # Takes extra memory for hashmap array
         # # T.C = n! x n  (Combinations ==> n! and for loop ==> n)
         # # S.C = O(n) normal S.C and O(n) auxiliary S.C for recursion
         
-        # res = []
+        res = []
 
-        # def rec(l , h):
+        def rec(l , h):
 
-        #     nonlocal res
+            nonlocal res
 
-        #     if len(l) == len(nums):
-        #         res.append(l.copy())
-        #         return
+            if len(l) == len(nums):
+                res.append(l.copy())
+                return
 
-        #     for i in range(len(h)):
-        #         if not h[i]:
-        #             l.append(nums[i])
-        #             h[i] = 1
-        #             rec(l , h)
-        #             l.pop()
-        #             h[i] = 0
+            for i in range(len(h)):
+                if not h[i]:
+                    l.append(nums[i])
+                    h[i] = 1
+                    rec(l , h)
+                    l.pop()
+                    h[i] = 0
         
-        # rec([] , [0] * len(nums))
-        
-        # return res
+        rec([] , [0] * len(nums))
+
+        return res
