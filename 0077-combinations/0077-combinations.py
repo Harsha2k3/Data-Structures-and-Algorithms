@@ -1,14 +1,14 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
 
-        nums = [i for i in range(1 , n + 1)]
-
         res = []
+
+        nums = [i for i in range(1 , n + 1)]
 
         def rec(ind , l):
 
             nonlocal res
-
+            
             if len(l) == k:
                 res.append(l.copy())
                 return
