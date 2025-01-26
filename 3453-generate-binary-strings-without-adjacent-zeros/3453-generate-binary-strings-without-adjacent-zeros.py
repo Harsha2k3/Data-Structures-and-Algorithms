@@ -2,24 +2,30 @@ class Solution:
     def validStrings(self, n: int) -> List[str]:
         
         res = []
-        
-        def valid(s):
-            
-            for i in range(len(s) - 1):
-                if s[i] == "0" and s[i + 1] == "0":
-                    return False
-            return True
-        
-        def rec(n , s , res):
-            
-            if len(s) == n:
-                if valid(s):
-                    res.append(s)
+
+        def rec(l):
+
+            nonlocal res
+
+            if len(l) == n:
+                res.append("".join(l))
                 return
+
+            if l and l[-1] == "0":
+                l.append("1")
+                rec(l)
+                l.pop()
             
-            rec(n , s + "0" , res)
-            rec(n , s + "1" , res)
-            
-        rec(n , "" , res)
+            if l and l[-1] == "1":
+                l.append("0")
+                rec(l)
+                l.pop()
+
+                l.append("1")
+                rec(l)
+                l.pop()
         
+        rec(["0"])
+        rec(["1"])
+
         return res
