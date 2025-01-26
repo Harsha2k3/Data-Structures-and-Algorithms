@@ -636,6 +636,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Harsha2k3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Harsha2k3/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Harsha2k3/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -666,6 +667,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [2107-find-unique-binary-string](https://github.com/Harsha2k3/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Harsha2k3/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsha2k3/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Harsha2k3/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Design
 |  |
 | ------- |
@@ -775,6 +777,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Harsha2k3/LeetCode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Harsha2k3/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Harsha2k3/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Harsha2k3/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
