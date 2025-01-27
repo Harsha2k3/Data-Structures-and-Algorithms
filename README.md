@@ -616,6 +616,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harsha2k3/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Harsha2k3/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Harsha2k3/LeetCode/tree/master/1803-average-waiting-time) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Harsha2k3/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Harsha2k3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Harsha2k3/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -776,6 +777,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harsha2k3/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Harsha2k3/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Harsha2k3/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Harsha2k3/LeetCode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Harsha2k3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Harsha2k3/LeetCode/tree/master/2107-find-unique-binary-string) |
