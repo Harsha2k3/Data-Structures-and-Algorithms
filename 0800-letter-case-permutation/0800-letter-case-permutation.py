@@ -1,36 +1,27 @@
 class Solution:
     def letterCasePermutation(self, s: str) -> List[str]:
-        
-        # Take or not take pattern (Like in )
 
         res = []
 
         def rec(ind , l):
 
-            if ind == len(s):
+            nonlocal res
+
+            if ind == len(l):
                 res.append("".join(l))
                 return
 
             if l[ind].isdigit():
-                rec(ind + 1, l)
-
-            else:
-
                 rec(ind + 1 , l)
-                
-                if l[ind].islower():
-                    l[ind] = l[ind].upper()
-                    rec(ind + 1 , l)
 
-                else:
-                    l[ind] = l[ind].lower()
-                    rec(ind + 1 , l)
-                
-                if l[ind].islower():
-                    l[ind] = l[ind].upper()
+            if l[ind].isalpha():
+                rec(ind + 1 , l)
 
-                else:
-                    l[ind] = l[ind].lower()
+                if l[ind].isupper(): l[ind] = l[ind].lower()
+                else: l[ind] = l[ind].upper()
+                rec(ind + 1 , l)
+                if l[ind].isupper(): l[ind] = l[ind].lower()
+                else: l[ind] = l[ind].upper()
         
         rec(0 , list(s))
 
