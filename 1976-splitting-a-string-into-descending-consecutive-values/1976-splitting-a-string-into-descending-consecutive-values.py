@@ -8,11 +8,10 @@ class Solution:
 
             for i in range(ind , len(s)):
                 num = int(s[ind : i + 1])
-
-                if prev == -10000 or num == prev - 1:
+                if prev == -100000 or prev - 1 == num:
                     if rec(i + 1 , parts + 1 , num):
                         return True
             
             return False
 
-        return rec(0 , 0 , -10000)
+        return rec(0 , 0 , -100000)
