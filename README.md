@@ -717,6 +717,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0202-happy-number](https://github.com/Harsha2k3/LeetCode/tree/master/0202-happy-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Harsha2k3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Harsha2k3/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Harsha2k3/LeetCode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2645-pass-the-pillow](https://github.com/Harsha2k3/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Harsha2k3/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -781,6 +782,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Harsha2k3/LeetCode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Harsha2k3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Harsha2k3/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Harsha2k3/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Harsha2k3/LeetCode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Harsha2k3/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Harsha2k3/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -859,6 +861,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | ------- |
 | [0834-ambiguous-coordinates](https://github.com/Harsha2k3/LeetCode/tree/master/0834-ambiguous-coordinates) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Harsha2k3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Harsha2k3/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Trie
 |  |
 | ------- |
