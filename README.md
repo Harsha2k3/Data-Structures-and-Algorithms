@@ -608,6 +608,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0139-word-break](https://github.com/Harsha2k3/LeetCode/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/Harsha2k3/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0679-24-game](https://github.com/Harsha2k3/LeetCode/tree/master/0679-24-game) |
 | [0941-sort-array-by-parity](https://github.com/Harsha2k3/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1293-three-consecutive-odds](https://github.com/Harsha2k3/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -716,6 +717,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Harsha2k3/LeetCode/tree/master/0202-happy-number) |
+| [0679-24-game](https://github.com/Harsha2k3/LeetCode/tree/master/0679-24-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Harsha2k3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Harsha2k3/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -769,6 +771,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0216-combination-sum-iii](https://github.com/Harsha2k3/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Harsha2k3/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Harsha2k3/LeetCode/tree/master/0401-binary-watch) |
+| [0679-24-game](https://github.com/Harsha2k3/LeetCode/tree/master/0679-24-game) |
 | [0800-letter-case-permutation](https://github.com/Harsha2k3/LeetCode/tree/master/0800-letter-case-permutation) |
 | [0834-ambiguous-coordinates](https://github.com/Harsha2k3/LeetCode/tree/master/0834-ambiguous-coordinates) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Harsha2k3/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
