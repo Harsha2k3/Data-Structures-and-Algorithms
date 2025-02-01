@@ -621,6 +621,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Harsha2k3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Harsha2k3/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Harsha2k3/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3429-special-array-i](https://github.com/Harsha2k3/LeetCode/tree/master/3429-special-array-i) |
 ## Binary Search
 |  |
 | ------- |
