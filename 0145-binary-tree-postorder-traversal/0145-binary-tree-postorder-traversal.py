@@ -1,18 +1,25 @@
-class Solution(object):
-    def postorderTraversal(self, root):
+class Solution:
+    def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
 
-        def postorder(root , arr):
+        if not root:
+            return []
+
+        res = []
+        
+        def dfs(root):
+
+            nonlocal res
 
             if not root:
                 return
 
-            postorder(root.left , arr)
-            postorder(root.right , arr)
-            arr.append(root.val)
-
-            return arr
+            dfs(root.left)
+            dfs(root.right)
+            res.append(root.val)
         
-        return postorder(root , [])
+        dfs(root)
+
+        return res
 
         # def postorder(root , arr):
 
@@ -63,32 +70,32 @@ class Solution(object):
 
         # Using 1 stack
 
-        curr = root
+        # curr = root
 
-        stack = []
+        # stack = []
 
-        postorder = []
+        # postorder = []
 
-        while curr or stack:
+        # while curr or stack:
 
-            if curr:
-                stack.append(curr)
-                curr = curr.left
+        #     if curr:
+        #         stack.append(curr)
+        #         curr = curr.left
             
-            else:
-                temp = stack[-1].right
+        #     else:
+        #         temp = stack[-1].right
 
-                if not temp:
-                    temp = stack[-1]
-                    stack.pop()
-                    postorder.append(temp.val)
+        #         if not temp:
+        #             temp = stack[-1]
+        #             stack.pop()
+        #             postorder.append(temp.val)
 
-                    while stack and temp == stack[-1].right:
-                        temp = stack[-1]
-                        stack.pop()
-                        postorder.append(temp.val)
+        #             while stack and temp == stack[-1].right:
+        #                 temp = stack[-1]
+        #                 stack.pop()
+        #                 postorder.append(temp.val)
 
-                else:
-                    curr = temp
+        #         else:
+        #             curr = temp
 
-        return postorder
+        # return postorder        
