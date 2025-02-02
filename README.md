@@ -618,6 +618,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1720-crawler-log-folder](https://github.com/Harsha2k3/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Harsha2k3/LeetCode/tree/master/1803-average-waiting-time) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Harsha2k3/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Harsha2k3/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Harsha2k3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Harsha2k3/LeetCode/tree/master/2107-find-unique-binary-string) |
