@@ -1,22 +1,25 @@
-class Solution(object):
-    def inorderTraversal(self, root):
+class Solution:
+    def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
 
         if not root:
             return []
 
-        def inorder(root , arr):
+        res = []
+
+        def dfs(root):
+
+            nonlocal res
 
             if not root:
                 return
 
-            inorder(root.left , arr)
-            arr.append(root.val)
-            inorder(root.right , arr)
-
-            return arr
+            dfs(root.left)
+            res.append(root.val)
+            dfs(root.right)
         
-        return inorder(root , [])
+        dfs(root)
 
+        return res
 
 
         # inorder = []
