@@ -7,7 +7,7 @@ class Solution:
         res = []
         s = set()
 
-        colors = {}  
+        colors = defaultdict(int)  
         color_count = defaultdict(int)  
 
         for i in q:
@@ -22,7 +22,6 @@ class Solution:
             
             if i[1] not in s:
                 s.add(i[1])
-                count += 1
             
             res.append(len(s))
 
