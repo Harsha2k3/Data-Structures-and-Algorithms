@@ -586,6 +586,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Harsha2k3/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Harsha2k3/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Harsha2k3/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2448-count-number-of-bad-pairs](https://github.com/Harsha2k3/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harsha2k3/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsha2k3/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Harsha2k3/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -624,6 +625,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Harsha2k3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Harsha2k3/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2448-count-number-of-bad-pairs](https://github.com/Harsha2k3/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Harsha2k3/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Harsha2k3/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Harsha2k3/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -728,6 +730,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Harsha2k3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Harsha2k3/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Harsha2k3/LeetCode/tree/master/2279-maximum-split-of-positive-even-integers) |
+| [2448-count-number-of-bad-pairs](https://github.com/Harsha2k3/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/Harsha2k3/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Harsha2k3/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
@@ -809,6 +812,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Harsha2k3/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Harsha2k3/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/Harsha2k3/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsha2k3/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
