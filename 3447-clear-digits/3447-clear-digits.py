@@ -14,8 +14,6 @@ class Solution:
                 rind.append(ind.pop())
                 rind.append(i)
 
-        rind.sort()
-
         s = list(s)
         
         return "".join([num for i , num in enumerate(s) if i not in set(rind)])
