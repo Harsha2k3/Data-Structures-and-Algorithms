@@ -682,6 +682,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [2107-find-unique-binary-string](https://github.com/Harsha2k3/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Harsha2k3/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsha2k3/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3447-clear-digits](https://github.com/Harsha2k3/LeetCode/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Harsha2k3/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Design
 |  |
@@ -710,6 +711,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [2299-merge-nodes-in-between-zeros](https://github.com/Harsha2k3/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Harsha2k3/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Harsha2k3/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Harsha2k3/LeetCode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -723,6 +725,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1720-crawler-log-folder](https://github.com/Harsha2k3/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Harsha2k3/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Harsha2k3/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3447-clear-digits](https://github.com/Harsha2k3/LeetCode/tree/master/3447-clear-digits) |
 ## Math
 |  |
 | ------- |
