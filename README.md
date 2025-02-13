@@ -339,6 +339,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/Harsha2k3/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Harsha2k3/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Tree
 |  |
 | ------- |
@@ -628,6 +629,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Harsha2k3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Harsha2k3/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Harsha2k3/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Harsha2k3/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Harsha2k3/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Harsha2k3/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Harsha2k3/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -712,6 +714,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Harsha2k3/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Harsha2k3/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Harsha2k3/LeetCode/tree/master/2645-pass-the-pillow) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Harsha2k3/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Harsha2k3/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Harsha2k3/LeetCode/tree/master/3447-clear-digits) |
 ## Stack
