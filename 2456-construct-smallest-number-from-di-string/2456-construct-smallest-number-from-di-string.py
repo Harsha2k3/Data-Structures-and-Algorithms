@@ -13,7 +13,7 @@ class Solution:
                 return
 
             last_digit = res_so_far[-1]
-            
+
             for i in range(1 , 10):
 
                 appended = False
@@ -31,6 +31,7 @@ class Solution:
                 if appended:
                     res_so_far.pop(-1)
 
+        # Check what can be the starting number (All possibilities)
         for i in range(1 , 10):
             if not self.res:
                 fun(0 , [i])
