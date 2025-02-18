@@ -584,6 +584,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/Harsha2k3/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1364-tuple-with-same-product](https://github.com/Harsha2k3/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Harsha2k3/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Harsha2k3/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Harsha2k3/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -619,6 +620,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1293-three-consecutive-odds](https://github.com/Harsha2k3/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1331-path-with-maximum-gold](https://github.com/Harsha2k3/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1364-tuple-with-same-product](https://github.com/Harsha2k3/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Harsha2k3/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harsha2k3/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Harsha2k3/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -826,6 +828,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Harsha2k3/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1364-tuple-with-same-product](https://github.com/Harsha2k3/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Harsha2k3/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Harsha2k3/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Harsha2k3/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
