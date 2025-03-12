@@ -615,6 +615,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/Harsha2k3/LeetCode/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/Harsha2k3/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0283-move-zeroes](https://github.com/Harsha2k3/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0679-24-game](https://github.com/Harsha2k3/LeetCode/tree/master/0679-24-game) |
 | [0941-sort-array-by-parity](https://github.com/Harsha2k3/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -701,6 +702,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Harsha2k3/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Harsha2k3/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0941-sort-array-by-parity](https://github.com/Harsha2k3/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harsha2k3/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
