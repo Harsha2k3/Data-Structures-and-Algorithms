@@ -633,6 +633,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1925-count-nice-pairs-in-an-array](https://github.com/Harsha2k3/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Harsha2k3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Harsha2k3/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Harsha2k3/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Harsha2k3/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Harsha2k3/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -688,6 +689,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Harsha2k3/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Harsha2k3/LeetCode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Harsha2k3/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Harsha2k3/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Harsha2k3/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Harsha2k3/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsha2k3/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -706,6 +708,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0941-sort-array-by-parity](https://github.com/Harsha2k3/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harsha2k3/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Harsha2k3/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Linked List
 |  |
 | ------- |
