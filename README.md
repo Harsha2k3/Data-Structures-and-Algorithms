@@ -614,6 +614,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/Harsha2k3/LeetCode/tree/master/0139-word-break) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsha2k3/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/Harsha2k3/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/Harsha2k3/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -644,6 +645,7 @@ This repository provides a comprehensive overview of my progress and achievement
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsha2k3/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Harsha2k3/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
@@ -704,6 +706,7 @@ This repository provides a comprehensive overview of my progress and achievement
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsha2k3/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Harsha2k3/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Harsha2k3/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
