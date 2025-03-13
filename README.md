@@ -312,6 +312,7 @@ This repository provides a comprehensive overview of my progress and achievement
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harsha2k3/LeetCode/tree/master/0011-container-with-most-water) |
 | [0917-boats-to-save-people](https://github.com/Harsha2k3/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harsha2k3/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Harsha2k3/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -604,6 +605,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Harsha2k3/LeetCode/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/Harsha2k3/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -709,6 +711,7 @@ This repository provides a comprehensive overview of my progress and achievement
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harsha2k3/LeetCode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsha2k3/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Harsha2k3/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Harsha2k3/LeetCode/tree/master/0283-move-zeroes) |
