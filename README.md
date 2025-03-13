@@ -694,6 +694,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harsha2k3/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harsha2k3/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harsha2k3/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Harsha2k3/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Harsha2k3/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Harsha2k3/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -945,4 +946,5 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harsha2k3/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
