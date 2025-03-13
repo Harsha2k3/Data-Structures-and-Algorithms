@@ -636,6 +636,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Harsha2k3/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Harsha2k3/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Harsha2k3/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/Harsha2k3/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Harsha2k3/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Harsha2k3/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Harsha2k3/LeetCode/tree/master/3429-special-array-i) |
@@ -709,6 +710,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0941-sort-array-by-parity](https://github.com/Harsha2k3/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harsha2k3/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Harsha2k3/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/Harsha2k3/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Linked List
 |  |
 | ------- |
