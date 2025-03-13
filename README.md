@@ -620,6 +620,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0139-word-break](https://github.com/Harsha2k3/LeetCode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsha2k3/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Harsha2k3/LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Harsha2k3/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/Harsha2k3/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -652,6 +653,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsha2k3/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Harsha2k3/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
@@ -937,5 +939,10 @@ This repository provides a comprehensive overview of my progress and achievement
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Harsha2k3/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
