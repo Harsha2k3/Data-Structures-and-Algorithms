@@ -590,6 +590,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/Harsha2k3/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Harsha2k3/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Harsha2k3/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Harsha2k3/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Harsha2k3/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -694,6 +695,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1160-letter-tile-possibilities](https://github.com/Harsha2k3/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsha2k3/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harsha2k3/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harsha2k3/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harsha2k3/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -950,5 +952,6 @@ This repository provides a comprehensive overview of my progress and achievement
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harsha2k3/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
