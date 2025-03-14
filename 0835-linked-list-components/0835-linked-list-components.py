@@ -6,9 +6,9 @@ class Solution:
 
         connected = False  
 
-        while(temp):
-            if(temp.val in nums):
-                if(connected == False):
+        while temp:
+            if temp.val in nums:
+                if connected == False:
                     connected = True
                     count += 1
             else:
