@@ -11,7 +11,7 @@ class Solution:
 
             if i == len(nums):
                 res.append(l.copy())
-                return 
+                return
 
             l.append(nums[i])
             rec(i + 1 , l)
@@ -19,5 +19,5 @@ class Solution:
             rec(i + 1 , l)
 
         rec(0 , [])
-
+        
         return res
