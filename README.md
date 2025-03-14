@@ -735,6 +735,7 @@ This repository provides a comprehensive overview of my progress and achievement
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Harsha2k3/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harsha2k3/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Harsha2k3/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0725-split-linked-list-in-parts](https://github.com/Harsha2k3/LeetCode/tree/master/0725-split-linked-list-in-parts) |
@@ -784,6 +785,7 @@ This repository provides a comprehensive overview of my progress and achievement
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Harsha2k3/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
