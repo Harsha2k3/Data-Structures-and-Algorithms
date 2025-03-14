@@ -637,6 +637,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Harsha2k3/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1293-three-consecutive-odds](https://github.com/Harsha2k3/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1331-path-with-maximum-gold](https://github.com/Harsha2k3/LeetCode/tree/master/1331-path-with-maximum-gold) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Harsha2k3/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/Harsha2k3/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Harsha2k3/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -664,6 +665,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0222-count-complete-tree-nodes](https://github.com/Harsha2k3/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/Harsha2k3/LeetCode/tree/master/0792-binary-search) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Harsha2k3/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## Bit Manipulation
 |  |
 | ------- |
