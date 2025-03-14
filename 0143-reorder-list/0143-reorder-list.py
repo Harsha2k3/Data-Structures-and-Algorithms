@@ -11,7 +11,7 @@ class Solution:
         slow = head
         fast = head.next
 
-        while(fast and fast.next):
+        while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
 
@@ -22,7 +22,7 @@ class Solution:
         slow.next = None              # Seperating the 2 halves
         prev = None
 
-        while(second):
+        while second:
             nxt = second.next       # Saving next node
             second.next = prev
             prev = second
@@ -31,7 +31,7 @@ class Solution:
         # Merging in required way
         first = head
         second = prev              # Now prev is at 4
-        while(second):
+        while second:
             nxt1,nxt2 = first.next,second.next  # Saving next nodes
             first.next = second
             second.next = nxt1
