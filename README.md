@@ -586,6 +586,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0202-happy-number](https://github.com/Harsha2k3/LeetCode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsha2k3/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0835-linked-list-components](https://github.com/Harsha2k3/LeetCode/tree/master/0835-linked-list-components) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harsha2k3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -628,6 +629,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0283-move-zeroes](https://github.com/Harsha2k3/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0679-24-game](https://github.com/Harsha2k3/LeetCode/tree/master/0679-24-game) |
+| [0835-linked-list-components](https://github.com/Harsha2k3/LeetCode/tree/master/0835-linked-list-components) |
 | [0917-boats-to-save-people](https://github.com/Harsha2k3/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Harsha2k3/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0966-binary-subarrays-with-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -741,6 +743,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Harsha2k3/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0203-remove-linked-list-elements](https://github.com/Harsha2k3/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0725-split-linked-list-in-parts](https://github.com/Harsha2k3/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [0835-linked-list-components](https://github.com/Harsha2k3/LeetCode/tree/master/0835-linked-list-components) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Harsha2k3/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Harsha2k3/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
