@@ -739,6 +739,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harsha2k3/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harsha2k3/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Harsha2k3/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0203-remove-linked-list-elements](https://github.com/Harsha2k3/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0725-split-linked-list-in-parts](https://github.com/Harsha2k3/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Harsha2k3/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Harsha2k3/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -787,6 +788,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Harsha2k3/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Harsha2k3/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
