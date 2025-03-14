@@ -724,6 +724,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harsha2k3/LeetCode/tree/master/0011-container-with-most-water) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/Harsha2k3/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsha2k3/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Harsha2k3/LeetCode/tree/master/0189-rotate-array) |
@@ -739,6 +740,7 @@ This repository provides a comprehensive overview of my progress and achievement
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Harsha2k3/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harsha2k3/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harsha2k3/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Harsha2k3/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
