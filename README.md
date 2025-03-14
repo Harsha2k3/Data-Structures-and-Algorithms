@@ -629,6 +629,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0283-move-zeroes](https://github.com/Harsha2k3/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0679-24-game](https://github.com/Harsha2k3/LeetCode/tree/master/0679-24-game) |
+| [0792-binary-search](https://github.com/Harsha2k3/LeetCode/tree/master/0792-binary-search) |
 | [0835-linked-list-components](https://github.com/Harsha2k3/LeetCode/tree/master/0835-linked-list-components) |
 | [0917-boats-to-save-people](https://github.com/Harsha2k3/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Harsha2k3/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -662,6 +663,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0209-minimum-size-subarray-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Harsha2k3/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsha2k3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/Harsha2k3/LeetCode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
