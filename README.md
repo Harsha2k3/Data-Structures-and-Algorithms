@@ -652,6 +652,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Harsha2k3/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Harsha2k3/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Harsha2k3/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2478-longest-nice-subarray](https://github.com/Harsha2k3/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Harsha2k3/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Harsha2k3/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Harsha2k3/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -678,6 +679,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Harsha2k3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Harsha2k3/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2478-longest-nice-subarray](https://github.com/Harsha2k3/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Harsha2k3/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
 |  |
@@ -975,4 +977,5 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0966-binary-subarrays-with-sum](https://github.com/Harsha2k3/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Harsha2k3/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harsha2k3/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2478-longest-nice-subarray](https://github.com/Harsha2k3/LeetCode/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
