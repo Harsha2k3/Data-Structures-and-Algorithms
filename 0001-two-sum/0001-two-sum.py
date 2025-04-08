@@ -3,12 +3,14 @@ class Solution(object):
 
         d = {}
 
-        # Store indices as lists to handle duplicates
+        # Store indices in a list as lists to handle duplicates
         for i , num in enumerate(nums):
             if num in d:
                 d[num].append(i)
             else:
                 d[num] = [i]
+
+        print(d)
 
         nums.sort()
 
