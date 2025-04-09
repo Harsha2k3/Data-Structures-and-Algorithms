@@ -757,6 +757,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0141-linked-list-cycle](https://github.com/Harsha2k3/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Harsha2k3/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Harsha2k3/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Harsha2k3/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Harsha2k3/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0835-linked-list-components](https://github.com/Harsha2k3/LeetCode/tree/master/0835-linked-list-components) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Harsha2k3/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -809,6 +810,7 @@ This repository provides a comprehensive overview of my progress and achievement
 | [0021-merge-two-sorted-lists](https://github.com/Harsha2k3/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Harsha2k3/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Harsha2k3/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Harsha2k3/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harsha2k3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
