@@ -6,21 +6,49 @@ class Solution:
         start = 0
         count = 0
 
-        res = float("-inf")
+        res = -1000000
 
         for end in range(len(s)):
-            if s[end] in v: count += 1 
-
+            if s[end] in v:
+                count += 1
+            
             if end - start + 1 == k:
-                res = max(res , count)
-                if s[start] in v: count -= 1 
+                res = max(res, count)
+                if s[start] in v: count -= 1
                 start += 1
-
-        return res 
-
-
+        
+        return res
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+        # v = "aeiou"
+
+        # start = 0
+        # count = 0
+
+        # res = float("-inf")
+
+        # for end in range(len(s)):
+        #     if s[end] in v: count += 1 
+
+        #     if end - start + 1 == k:
+        #         res = max(res , count)
+        #         if s[start] in v: count -= 1 
+        #         start += 1
+
+        # return res
 
 
 #         vowels = set(["a", "e", "i", "o", "u"])
