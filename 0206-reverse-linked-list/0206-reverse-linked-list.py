@@ -26,12 +26,10 @@ class Solution:
         prev = None
         temp = head
 
-        while(temp):
+        while temp:
             nxt = temp.next
             temp.next = prev
             prev = temp
             temp = nxt
         
-        head = prev
-
-        return head
+        return prev
